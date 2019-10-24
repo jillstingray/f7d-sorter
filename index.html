@@ -1,0 +1,95 @@
+<html>
+
+<head>
+  <link rel="shortcut icon" href="src/assets/orange.ico" type="image/x-icon">
+  <link rel="icon" href="src/assets/orange.ico" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="og:site_name" content="Eternal City Character Sorting">
+  <meta name="og:description" content="A simple website for sorting Eternal City characters in a formatted list">
+  <meta name="og:image" content="https://i.imgur.com/uTMxyPf.png">
+  <title>Eternal City Sorter</title>
+
+  <link rel="stylesheet" type="text/css" href="src/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="src/css/styles.css">
+
+  <script src="src/js/data.js"></script>
+  <script src="src/js/data/2019-10-25.js"></script>
+
+  <script src="src/js/html2canvas.min.js"></script>
+  <script src="src/js/lz-string.min.js"></script>
+  <script src="src/js/seedrandom.min.js"></script>
+  <script src="src/js/main.js"></script>
+</head>
+
+<body>
+<div class="container">
+
+    <div class="progress">
+        <span class="progressbattle"></span>
+        <div class="progressbar">
+            <div class="progressfill"><span class="progresstext"></span></div>
+        </div>
+    </div>
+
+    <div class="sorter">
+        <img src="src/assets/default.png" class="left sort image">
+
+        <div class="starting start button"><br>Eternal City<br>Sorter<br><br><br><br>Start!</div>
+        <div class="starting load button">Load <span></span></div>
+
+        <div class="loading button"><div></div>Loading...</div>
+
+        <div class="sorting tie button">Tie</div>
+        <div class="sorting undo button">Undo</div>
+        <div class="sorting save button">Save Progress</div>
+
+        <div class="finished save button">Generate Result URL</div>
+        <div class="finished getimg button">Generate Image</div>
+        <div class="finished list button">Generate Text List</div>
+
+        <img src="src/assets/default.png" class="right sort image">
+
+        <div class="left sort text"><p></p></div>
+        <div class="right sort text"><p></p></div>
+    </div>
+
+    <div class="options"></div>
+    <div class="image selector">Display Images on Result: </div>
+    <div class="time taken"></div>
+    <div class="results"></div>
+
+    <div class="info">
+			<a href="https://twitter.com/pissjilly">@pissjilly</a> |
+			<a href="https://twitter.com/amarylli_rdt">@amarylli_rdt</a>
+        <br>
+			<a href="https://github.com/jillstingray/f7d-sorter">source code</a> |
+			<a class="clearsave">clear save data</a>
+
+        <br><br><br>
+
+        <h1>sorter for Eternal City characters!</h1>
+				<p>pick your sources, and hit the start button</p>
+        <p>certain options have details that you can hover to read</p>
+        <p>depending on how many sources you pick, you'll get up to 200+ picks</p>
+        
+        <br><br><br>
+
+        <p>keyboard controls during sorting
+        <p>H/LeftArrow (pick left) J/DownArrow (undo) K/UpArrow (tie) L/RightArrow (pick right) S (save progress)</p>
+
+        <br>
+        <p>before sorting
+        <p>S/Enter (start sorting) L (load progress)
+        <br><br>
+        <p>1/2/3 always correspond to the first/second/third buttons</p>
+
+		<br><br><br><br>
+
+        <p>adapted from <a href="https://github.com/jillstingray/ojsort">ojsort</a> which is adapted from <a href="https://tohosort.frelia.my/">tohosort</a></p>
+		<p>Eternal City also known as Forever 7th Capital, 永远的7日之都, Forever 7 Days, 영원한 7일의 도시, 영7, and 永遠の七日 is created by NetEase Games</p><br>
+		<p>last updated 2019-MM-DD (UTC+08)</p>
+    </div>
+</div>
+</body>
+
+</html>
