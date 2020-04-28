@@ -35,308 +35,297 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Alte",
+    name: "安 / 안",
     img: "1uLpuoE.png",
     opts: {
-      series: [ "sora", "oj", "mj", "aos2" ]
+      series: [  ]
     }
   },
   {
-    name: "Arthur",
+    name: "安托涅瓦 / 앙투아네트",
     img: "AAE6TUa.png",
     opts: {
-      series: [ "cms", "mj", "oj" ],
-			notgirl: true
+      series: [  ]
     }
   },
   {
-    name: "Aru",
+    name: "珈儿 / 카지",
     img: "Kg08ML1.png",
     opts: {
-      series: [ "cms", "oj", "mj" ]
+      series: [  ]
     }
   },
   {
-    name: "Ceoreparque",
+    name: "西比尔 / 시비르",
     img: "a48YYnr.png",
     opts: {
-      series: ["alicia", "oj"]
+      series: [  ]
     }
   },
   {
-    name: "Fernet",
+    name: "晏华 / 안화",
     img: "I6vzxkF.png",
     opts: {
-      series: [ "frb", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Hime",
+    name: "爱缪莎 / 에뮤사",
     img: "qyvtAAP.png",
     opts: {
-      series: [ "sugu", "sora", "aos", "oj", "mj", "aos2" ]
+      series: [  ]
     }
   },
 	{
-    name: "Iru",
+    name: "奥露西娅 / 오로시아",
     img: "2fe0ury.png",
     opts: {
-      series: [ "sugu", "aos", "mj", "oj", "aos2" ]
+      series: [  ]
     }
   },
 	{
-    name: "Kae",
+    name: "罗纳克 / 로나크",
     img: "0XgLAON.png",
     opts: {
-      series: [ "sugu", "aos", "oj", "mj", "aos2" ]
+      series: [  ]
     }
   },
 	{
-    name: "Kai",
+    name: "芙罗拉 / 플로라",
     img: "LDzx5iY.png",
     opts: {
-      series: [ "oj", "mj" ],
-			notgirl: true
+      series: [  ]
     }
   },
 	{
-    name: "Kiriko",
+    name: "达尔维拉 / 달비라",
     img: "rHFVaDh.png",
     opts: {
-      series: [ "cms", "oj", "xmss" ]
+      series: [  ]
     }
   },
 	{
-    name: "Krilalaris",
+    name: "雯梓 / 웬시",
     img: "lGdLIzC.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Kyoko",
+    name: "钟函谷 / 종한구",
     img: "ccm0Xwj.png",
     opts: {
-      series: [ "sugu", "aos", "aosx", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Kyousuke",
+    name: "阿岚 / 아라시",
     img: "r28PfSj.png",
     opts: {
-      series: [ "qpsd", "oj", "mj", "qpk" ],
-			notgirl: true
+      series: [  ]
     }
   },
 	{
-    name: "Marc",
+    name: "伽梨耶 / 가리에",
     img: "nZZ0mJQ.png",
     opts: {
-      series: [ "frb", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Marie Poppo",
+    name: "赛斯 / 세츠",
     img: "HDm0zdn.png",
     opts: {
-      series: [ "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Mei",
+    name: "羽弥 / 와타리",
     img: "J2Gt6Xm.png",
     opts: {
-      series: [ "qps", "cms", "xmss", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Mimyuu",
+    name: "米菈 / 미라",
     img: "vC1YLyq.png",
     opts: {
-      series: [ "qps", "oj", "mj", "qpsd" ]
+      series: [  ]
     }
   },
 	{
-    name: "Mira",
+    name: "泰丝拉 / 테슬라",
     img: "4QKJ6RK.png",
     opts: {
-      series: [ "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Miusaki",
+    name: "艾露比 / 에루비",
     img: "qme8ivx.png",
     opts: {
-      series: [ "alicia", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Nanako",
+    name: "薇拉 / 베라",
     img: "CyFZxdc.png",
     opts: {
-      series: [ "sugu", "aos", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Nath",
+    name: "妮维 / 니유",
     img: "iLUO5ik.png",
     opts: {
-      series: [ "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Natsumi",
+    name: "濑由衣 / 세이유이",
     img: "nBMSHYR.png",
     opts: {
-      series: [ "oj", "mj", "xmss" ]
+      series: [  ]
     }
   },
 	{
-    name: "Nico",
+    name: "幽桐 / 유우토",
     img: "XCXThLs.png",
     opts: {
-      series: [ "xmss", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "NoName",
+    name: "乌鹭 / 우류",
     img: "PrtWnJV.png",
     opts: {
-      series: [ "aos", "oj", "mj" ],
-			notgirl: true
+      series: [  ]
     }
   },
 	{
-    name: "Peat",
+    name: "达格 / 더그",
     img: "s9KV2pz.png",
     opts: {
-      series: [ "frb", "oj", "mj" ],
-			notgirl: true
+      series: [  ]
     }
   },
 	{
-    name: "QP",
+    name: "璐璐 / 룰루",
     img: "sbHS0jh.png",
     opts: {
-      series: [ "qps", "oj", "mj", "qpsd", "aos" ]
+      series: [  ]
     }
   },
 	{
-    name: "Saki",
+    name: "丽 / 레이",
     img: "NU5ggG3.png",
     opts: {
-      series: [ "sugu", "aos", "aos2", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sham",
+    name: "莱奥斯 / 레오스",
     img: "eVMBODw.png",
     opts: {
-      series: [ "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sherry",
+    name: "赛哈姆 / 사하무",
     img: "qgMi8WP.png",
     opts: {
-      series: [ "frb", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sora",
+    name: "瞬 / 슌",
     img: "6BItCqM.png",
     opts: {
-      series: [ "aos", "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Star Breaker",
+    name: "千藻诗歌 / 치모시카",
     img: "pxedL6Y.png",
     opts: {
-      series: [ "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Suguri",
+    name: "虎彻 / 호체",
     img: "Lr9Qxnp.png",
     opts: {
-      series: [ "sugu", "aos", "sora", "aos2", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sweet Breaker",
+    name: "穆娅 / 뮤아",
     img: "sQLQ1V6.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Syura",
+    name: "李若胤 / 리로이",
     img: "xlKr3zc.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Captain Tequila",
+    name: "夏狩 / 샤슈",
     img: "4H5EVSr.png",
     opts: {
-      series: [ "frb", "oj", "mj" ],
-			notgirl: true
+      series: [  ]
     }
   },
 	{
-		name: "Pirate Crew Member",
-		img: "m7a3Ofs.png",
-		opts: {
-			series: [ "frb", "oj" ],
-			notgirl: true,
-			npc: true
-		}
-	},
+     name: "巴裘拉 / 바쿠라",
+     img: "m7a3Ofs.png",
+     opts: {
+	series: [  ],
+     }
+  },
 	{
-    name: "Tomato",
+    name: "巫殷 / 우윈",
     img: "EVEQks9.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Tomomo",
+    name: "白 / 시로",
     img: "NLhPu1N.png",
     opts: {
-      series: [ "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Tsih",
+    name: "零 / 누르",
     img: "Z5MvXGn.png",
     opts: {
-      series: [ "sora", "aos2", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Yuki",
+    name: "拉比 / 라비",
     img: "yRbrX9c.png",
     opts: {
-      series: [ "qps", "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
-	// Alternate
 	{
     name: "Aru (Scramble)",
     img: "WbzPN5j.png",
     opts: {
-      series: [ "xmss", "oj" ],
-			alt: true
+      series: [ "xmss", "oj" ]
     }
   },
 	{
     name: "Marie Poppo (Mixed)",
     img: "hyUHyu7.png",
     opts: {
-      series: [ "oj", "mj" ],
-			alt: true
+      series: [ "oj", "mj" ]
     }
   },
 
@@ -344,56 +333,49 @@ dataSet[dataSetVersion].characterData = [
     name: "QP (Dangerous)",
     img: "jo5rLTS.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ],
-			alt: true
+      series: [ "qpsd", "oj", "mj" ]
     }
   },
 	{
     name: "Suguri (Ver.2)",
     img: "lY6ophn.png",
     opts: {
-      series: [ "oj" ],
-			alt: true
+      series: [ "oj" ]
     }
   },
 	{
-		name: "Sora (Military)",
-		img: "F1a7fdb.png",
-		opts: {
-			series: [ "oj", "sora" ],
-			alt: true
-		}
-	},
+     name: "Sora (Military)",
+     img: "F1a7fdb.png",
+     opts: {
+       series: [ "oj", "sora" ]
+     }
+  },
 	{
     name: "Tomomo (Casual)",
     img: "xa2PgEO.png",
     opts: {
-      series: [ "oj", "mj" ],
-			alt: true
+      series: [ "oj", "mj" ]
     }
   },
 	{
     name: "Tomomo (Sweet Eater)",
     img: "af1EKEw.png",
     opts: {
-      series: [ "oj" ],
-			alt: true
+      series: [ "oj" ]
     }
   },
 	{
     name: "Cuties",
     img: "7SuHV3w.png",
     opts: {
-      series: [ "oj", "mj" ],
-			alt: true
+      series: [ "oj", "mj" ]
     }
   },
 	{
     name: "Yuki (Dangerous)",
     img: "whUTpHI.png",
     opts: {
-      series: [ "oj", "qpsd", "mj" ],
-			alt: true
+      series: [ "oj", "qpsd", "mj" ]
     }
   },
 	// NPC
@@ -401,326 +383,259 @@ dataSet[dataSetVersion].characterData = [
     name: "Robo Ball",
     img: "RrlVRB2.png",
     opts: {
-      series: [ "sugu", "aos", "oj", "mj" ],
-			notgirl: true,
-			npc: true
+      series: [ "sugu", "aos", "oj", "mj" ]
     }
   },
 	{
     name: "Shifu Robot",
     img: "ad80FW0.png",
     opts: {
-      series: [ "sugu", "aos", "oj", "mj", "qpsd" ],
-			notgirl: true,
-			npc: true
+      series: [ "sugu", "aos", "oj", "mj", "qpsd" ]
     }
   },
 	{
     name: "Flying Castle",
     img: "wh25GF5.png",
     opts: {
-      series: [ "frb", "oj", "mj", "xmss" ],
-			notgirl: true,
-			npc: true
+      series: [ "frb", "oj", "mj", "xmss" ]
     }
   },
 	{
     name: "Chicken",
     img: "8le2MoJ.png",
     opts: {
-      series: [ "qps", "qpsd", "oj" ],
-			notgirl: true,
-			npc: true
+      series: [ "qps", "qpsd", "oj" ]
     }
   },
 	{
     name: "Store Manager",
     img: "88UyZXE.png",
     opts: {
-      series: [ "qps", "oj", "mj" ],
-			notgirl: true,
-			npc: true
+      series: [ "qps", "oj", "mj" ]
     }
   },
 	{
     name: "Seagull",
     img: "3CuJ6qV.png",
     opts: {
-      series: [ "frb", "oj", "mj" ],
-			notgirl: true,
-			npc: true
+      series: [ "frb", "oj", "mj" ]
     }
   },
-	// Not in 100% OJ
 	{
     name: "Alicianrone",
     img: "Wp7kKcM.png",
     opts: {
-      series: [ "alicia", "mj" ],
-			notadded: true
+      series: [ "alicia", "mj" ]
     }
   },
 	{
     name: "Chris",
     img: "iZYVrG1.png",
     opts: {
-      series: [ "qps", "mj" ],
-			notadded: true
+      series: [ "qps", "mj" ]
     }
   },
 	{
     name: "Dirue",
     img: "RzP0DUe.png",
     opts: {
-      series: [ "alicia", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "alicia", "mj" ]
     }
   },
 	{
     name: "Islay",
     img: "ohOxEQe.png",
     opts: {
-      series: [ "frb", "mj", "oj" ],
-			
+      series: [ "frb", "mj", "oj" ]
     }
   },
 	{
     name: "Kyupita",
     img: "vUqRnTw.png",
     opts: {
-      series: [ "qpk", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "qpk", "mj" ]
     }
   },
 	{
     name: "Lone Rider",
     img: "71H4dba.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Mescal",
     img: "Aq2EqyD.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Mira (Past)",
     img: "fVJx9m3.png",
     opts: {
-      series: [ "mj" ],
-			alt: true,
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Reika",
     img: "BN2Ovyn.png",
     opts: {
-      series: [ "mj" ],
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Sumika",
     img: "furXsU0.png",
     opts: {
-      series: [ "aos2", "mj" ],
-			notadded: true
+      series: [ "aos2", "mj" ]
     }
   },
 	{
     name: "Yukihito (Yukito)",
     img: "mZvOIde.png",
     opts: {
-      series: [ "sora", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "sora", "mj" ]
     }
   },
 	{
     name: "Yuuki",
     img: "ojNsbRl.png",
     opts: {
-      series: [ "qps", "mj", "oj" ],
-			
+      series: [ "qps", "mj", "oj" ]
     }
   },
 	{
     name: "Marc (Pig)",
     img: "7wF4ekx.png",
     opts: {
-      series: [ "mj" ],
-			alt: true,
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Peat (Pig)",
     img: "Dlm45RD.png",
     opts: {
-      series: [ "mj" ],
-			alt: true,
-      notgirl: true,
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Suguri (46 Billion Years)",
     img: "RctxyjS.png",
     opts: {
-      series: [ "mj" ],
-			alt: true,
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Sumika (46 Billion Years)",
     img: "s2qRx1v.png",
     opts: {
-      series: [ "mj" ],
-			alt: true,
-			notadded: true
+      series: [ "mj" ]
     }
   },
 	{
     name: "Bourbon",
     img: "0vZOYg8.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Grain",
     img: "DVrB86K.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Malt (Guild Master)",
     img: "ReEoeyV.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Merchant",
     img: "obccmpx.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Scholar",
     img: "fPWzr6c.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Scientist",
     img: "5xtBaAw.png",
     opts: {
-      series: [ "frb", "mj" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb", "mj" ]
     }
   },
 	{
     name: "Butler",
     img: "SAAMAu1.png",
     opts: {
-      series: [ "frb" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb" ]
     }
   },
 	{
     name: "Punk",
     img: "4pjxxzA.png",
     opts: {
-      series: [ "frb" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb" ]
     }
   },
 	{
     name: "Guild Member",
     img: "bzQVkpk.png",
     opts: {
-      series: [ "frb" ],
-			notgirl: true,
-			notadded: true
+      series: [ "frb" ]
     }
   },
 	{
-		name: "Shifu",
-		img: "VIJC2UW.png",
-		opts: {
-			series: [ "sugu", "mj" ],
-			notgirl: true,
-			notadded: true
-		}
-	},
-	// Co-op Mode Bosses
+     name: "Shifu",
+     img: "VIJC2UW.png",
+     opts: {
+       series: [ "sugu", "mj" ]
+     }
+  },
 	{
     name: "Big the Jonathan",
     img: "lMrA7KF.png",
     opts: {
-      series: [ "oj" ],
-			notgirl: true,
-			npc: true
+      series: [ "oj" ]
     }
   },
 	{
     name: "Big the Haruo",
     img: "7LE9AYz.png",
     opts: {
-      series: [ "oj" ],
-			npc: true
+      series: [ "oj" ]
     }
   },
 	{
     name: "M10 Robot",
     img: "Ur3rGdT.png",
     opts: {
-      series: [ "oj" ],
-			notgirl: true,
-			npc: true
+      series: [ "oj" ]
     }
   },
 	{
     name: "Star Devourer",
     img: "jI0Fp4r.png",
     opts: {
-      series: [ "oj" ],
-			npc: true
+      series: [ "oj" ]
     }
   },
 		{
     name: "Summer Beast",
     img: "a5xuZ9N.png",
     opts: {
-      series: [ "oj" ],
-			npc: true
+      series: [ "oj" ]
     }
   }
 ]
