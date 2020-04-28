@@ -1,10 +1,7 @@
-* {
-	cursor: url(https://i.imgur.com/HTj9R6D.png), auto !important;
-}
 body {
   font-family: Helvetica, serif;
-  font-size: 16px;
-	background-color: #f6d7bb;
+  font-size: 28px;
+	background-color: white;
 }
 
 .container {
