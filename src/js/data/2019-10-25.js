@@ -315,327 +315,491 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "Aru (Scramble)",
+    name: "初音未来 / 하츠네 미쿠",
     img: "WbzPN5j.png",
     opts: {
-      series: [ "xmss", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Marie Poppo (Mixed)",
+    name: "巡音流歌 / 메구리네 루카",
     img: "hyUHyu7.png",
     opts: {
-      series: [ "oj", "mj" ]
+      series: [  ]
     }
   },
 
 	{
-    name: "QP (Dangerous)",
+    name: "镜音铃・连 / 카가미네 린, 렌",
     img: "jo5rLTS.png",
     opts: {
-      series: [ "qpsd", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Suguri (Ver.2)",
+    name: "菲尼克 / 피닉",
     img: "lY6ophn.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 	{
-     name: "Sora (Military)",
+     name: "璃璃子 / 리리코",
      img: "F1a7fdb.png",
      opts: {
-       series: [ "oj", "sora" ]
+       series: [  ]
      }
   },
 	{
-    name: "Tomomo (Casual)",
+    name: "尤梨 / 유리",
     img: "xa2PgEO.png",
     opts: {
-      series: [ "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Tomomo (Sweet Eater)",
+    name: "柯路诺 / 크루노",
     img: "af1EKEw.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Cuties",
+    name: "雷克特 / 렉터",
     img: "7SuHV3w.png",
     opts: {
-      series: [ "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Yuki (Dangerous)",
+    name: "夜 / 나이트",
     img: "whUTpHI.png",
     opts: {
-      series: [ "oj", "qpsd", "mj" ]
+      series: [  ]
     }
   },
-	// NPC
 	{
-    name: "Robo Ball",
+    name: "屠怯怯 / 토쿄쿄",
     img: "RrlVRB2.png",
     opts: {
-      series: [ "sugu", "aos", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Shifu Robot",
+    name: "牧濑红莉栖 / 마키세 크리스",
     img: "ad80FW0.png",
     opts: {
-      series: [ "sugu", "aos", "oj", "mj", "qpsd" ]
+      series: [  ]
     }
   },
 	{
-    name: "Flying Castle",
+    name: "椎名真由理 / 시이나 마유리",
     img: "wh25GF5.png",
     opts: {
-      series: [ "frb", "oj", "mj", "xmss" ]
+      series: [  ]
     }
   },
 	{
-    name: "Chicken",
+    name: "冈部伦太郎 / 오카베 린타로",
     img: "8le2MoJ.png",
     opts: {
-      series: [ "qps", "qpsd", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Store Manager",
+    name: "艾莉兹 / 아리즈",
     img: "88UyZXE.png",
     opts: {
-      series: [ "qps", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Seagull",
+    name: "维恩 / 비엔",
     img: "3CuJ6qV.png",
     opts: {
-      series: [ "frb", "oj", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Alicianrone",
+    name: "莉米亚 / 리미아",
     img: "Wp7kKcM.png",
     opts: {
-      series: [ "alicia", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Chris",
+    name: "初音未来 / 하츠네 미쿠",
     img: "iZYVrG1.png",
     opts: {
-      series: [ "qps", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Dirue",
+    name: "KAITO",
     img: "RzP0DUe.png",
     opts: {
-      series: [ "alicia", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Islay",
+    name: "初音未来 / 하츠네 미쿠",
     img: "ohOxEQe.png",
     opts: {
-      series: [ "frb", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Kyupita",
+    name: "MEIKO",
     img: "vUqRnTw.png",
     opts: {
-      series: [ "qpk", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Lone Rider",
+    name: "伊萨克 / 이자크",
     img: "71H4dba.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Mescal",
+    name: "黑尔加 / 헬가",
     img: "Aq2EqyD.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Mira (Past)",
+    name: "格蕾莎 / 그레이사",
     img: "fVJx9m3.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Reika",
+    name: "亚修 / 아슈",
     img: "BN2Ovyn.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sumika",
+    name: "青檀 / 칭탄",
     img: "furXsU0.png",
     opts: {
-      series: [ "aos2", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Yukihito (Yukito)",
+    name: "阮颜 / 루안 옌",
     img: "mZvOIde.png",
     opts: {
-      series: [ "sora", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Yuuki",
+    name: "阮羽 / 루안 유",
     img: "ojNsbRl.png",
     opts: {
-      series: [ "qps", "mj", "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Marc (Pig)",
+    name: "凛雾 / 린무",
     img: "7wF4ekx.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Peat (Pig)",
+    name: "朵朵 / 도도",
     img: "Dlm45RD.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Suguri (46 Billion Years)",
+    name: "格雷穆 / 그레이무",
     img: "RctxyjS.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Sumika (46 Billion Years)",
+    name: "瑟雷斯 / 세레스",
     img: "s2qRx1v.png",
     opts: {
-      series: [ "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Bourbon",
+    name: "伊斯卡里奥 / 이스카리오",
     img: "0vZOYg8.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Grain",
+    name: "朝奈 / 아사나",
     img: "DVrB86K.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Malt (Guild Master)",
+    name: "韦迪 / 웨이디",
     img: "ReEoeyV.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Merchant",
+    name: "阿希莉亚 / 아실리아",
     img: "obccmpx.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Scholar",
+    name: "重渊 / 중연",
     img: "fPWzr6c.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Scientist",
+    name: "萝月 / 라게츠",
     img: "5xtBaAw.png",
     opts: {
-      series: [ "frb", "mj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Butler",
+    name: "蕾娜 / 레나",
     img: "SAAMAu1.png",
     opts: {
-      series: [ "frb" ]
+      series: [  ]
     }
   },
 	{
-    name: "Punk",
+    name: "白歌 / 핫카",
     img: "4pjxxzA.png",
     opts: {
-      series: [ "frb" ]
+      series: [  ]
     }
   },
 	{
-    name: "Guild Member",
+    name: "木之本樱 / 체리",
     img: "bzQVkpk.png",
     opts: {
-      series: [ "frb" ]
+      series: [  ]
     }
   },
 	{
-     name: "Shifu",
+     name: "月 / 유에",
      img: "VIJC2UW.png",
      opts: {
-       series: [ "sugu", "mj" ]
+       series: [  ]
      }
   },
 	{
-    name: "Big the Jonathan",
+    name: "李小狼 / 샤오랑",
     img: "lMrA7KF.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Big the Haruo",
+    name: "木之本樱 / 체리",
     img: "7LE9AYz.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "M10 Robot",
+    name: "十玖 / 쥬쿠",
     img: "Ur3rGdT.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 	{
-    name: "Star Devourer",
+    name: "奥德里奇 / 알드리치",
     img: "jI0Fp4r.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
     }
   },
 		{
-    name: "Summer Beast",
+    name: "苍澜 / 소우란",
     img: "a5xuZ9N.png",
     opts: {
-      series: [ "oj" ]
+      series: [  ]
+    }
+  },
+	{
+    name: "宝妮 / 보니",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "源千雪 / 치유키",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "美咲 / 미사키",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "维尔特 / 빌트",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "雷音 / 라이온",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+
+	{
+    name: "西莉 / 시리",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "司篁 / 사황",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "钟遥 / 종야오",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "黑死 / 페스트",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "雏雨 / 히나사메",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+
+	{
+    name: "千式 / 천식",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "罗修 / 라슈",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "杰诺尔 / 괴아노르",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "四枫院凛 / 시호인 린",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "片瑚 / 헨코",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+
+	{
+    name: "星灼 / 세이샤쿠",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "邵言 / 소언",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "莉娅 / 리아",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "天海奏 / 아마미 카나데",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "纳华特 / 나월트",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+
+	{
+    name: "希格莉法 / 시글리파",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "早川百咏 / 하야카와 모에",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
+    }
+  },
+	{
+    name: "摩卡 / 모카",
+    img: "jI0Fp4r.png",
+    opts: {
+      series: [  ]
     }
   }
 ]
