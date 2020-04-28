@@ -1,57 +1,39 @@
-dataSetVersion = "2019-10-25"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2020-04-28"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series",
+    name: "Filter",
     key: "series",
-    tooltip: "Check this to restrict to certain series\n(All that apply\nSmall cameos will not be included)",
-    checked: true,
+    tooltip: "Check this to restrict to certain attribute",
+    checked: false,
     sub: [
-			{ name: "100% Orange Juice!", key: "oj" },
-			{ name: "200% Mixed Juice!", key: "mj", checked: false },
-			{ name: "QP Shooting", key: "qps", checked: false },
-			{ name: "Christmas Shooting", key: "cms", checked: false },
-			{ name: "QP Shooting - Dangerous!!", key: "qpsd", checked: false },
-			{ name: "Xmas Shooting - Scramble!!", key: "xmss", checked: false },
-			{ name: "SUGURI", key: "sugu", checked: false },
-			{ name: "sora", key: "sora", checked: false },
-			{ name: "Acceleration of SUGURI (X-Edition)", key: "aos", tooltip: "Doesn't include Suguri-P and Suguri-SP", checked: false },
-			{ name: "Acceleration of SUGURI 2", key: "aos2", checked: false },
-			{ name: "Flying Red Barrel", key: "frb", tooltip: "Includes Flying Crimson Barrel if Removing Alt Chars is unchecked", checked: false },
-			{ name: "Alicianrone", key: "alicia", tooltip: "Unreleased OJ game", checked: false },
-			{ name: "QP Kiss", key: "qpk", tooltip: "Dating sim game for April Fools'", checked: false }
-
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: false },
+			{ name: "刚(강)", key: "tough", checked: false },
+			{ name: "巧(교)", key: "deft", checked: false },
+			{ name: "灵(영)", key: "spirit", checked: false },
+			{ name: "战士(전사)", key: "warrior", checked: false },
+			{ name: "坦克(탱커)", key: "tank", checked: false },
+			{ name: "法师(법사)", key: "magician", checked: false },
+			{ name: "影袭(암살)", key: "assassin", checked: false },
+			{ name: "射手(사수)", key: "shooter", checked: false },
+			{ name: "辅助(보조)", key: "support", checked: false },
+			{ name: "物理(물리)", key: "physical", checked: false },
+			{ name: "法术(마법)", key: "magical", checked: false },
+			{ name: "Collabo", key: "collabo", checked: false },
+			{ name: "Female", key: "female", checked: false },
+			{ name: "Male", key: "male", checked: false },
+			{ name: "Initial rank S", key: "ranks", checked: false },
+    			{ name: "Initial rank A", key: "ranka", checked: false },
+			{ name: "Initial rank B", key: "rankb", checked: false },
+    			{ name: "Initial rank C", key: "rankc", checked: false },
+    			{ name: "NPC", key: "npc", tooltip: "ex: 指挥使(지휘사), 希罗(히로), 霞(카스미)", checked: false },
+    			{ name: "CN server only", key: "cn", tooltip: "characters who are in only Chinese server", checked: false }
     ]
-  },
-	{
-    name: "Remove Alternate Versions",
-    key: "alt",
-    tooltip: "Check this to remove possible duplicate Characters\ne.g. Suguri (Ver.2), Marc (Pig), etc.",
-		checked: false
-  },
-  {
-    name: "Remove Non-Girls",
-    key: "notgirl",
-    tooltip: "Check this to remove all non-female characters\nAll Mira count as girls in this sorter for easier reference",
-		checked: false
-  },
-	{
-    name: "Remove Neutral (NPC) Characters",
-    key: "npc",
-    tooltip: "Check this to remove all NPCs in 100% OJ\ne.g. Chicken, Seagull, Store Manager, etc.",
-		checked: false
-  },
-	{
-    name: "Remove Unadded Characters",
-    key: "notadded",
-    tooltip: "Check this to remove all characters not playable in 100% OJ (yet)\ne.g. Lone Rider",
-		checked: false
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
-	// in 100% OJ
   {
     name: "Alte",
     img: "1uLpuoE.png",
