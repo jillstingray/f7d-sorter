@@ -8,7 +8,6 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain attributes",
     checked: true,
     sub: [
-			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: true },
 			{ name: "刚(강)", key: "tough", checked: true },
 			{ name: "巧(교)", key: "deft", checked: true },
 			{ name: "灵(영)", key: "spirit", checked: true },
@@ -20,6 +19,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "辅助(보조)", key: "support", checked: true },
 			{ name: "物理(물리)", key: "physical", checked: true },
 			{ name: "法术(마법)", key: "magic", checked: true },
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: true },
 			{ name: "Collab", key: "collab", checked: true },
 			{ name: "Female", key: "female", checked: true },
 			{ name: "Male", key: "male", checked: true },
@@ -28,7 +28,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "Initial rank B", key: "rankb", checked: true },
 			{ name: "Initial rank C", key: "rankc", checked: true },
 			{ name: "NPC", key: "npc", tooltip: "ex: 指挥使(지휘사), 希罗(히로), 霞(카스미)", checked: true },
-			{ name: "CN server only", key: "cn", tooltip: "characters who are in only Chinese server", checked: true }
+			{ name: "CN server only", key: "cnonly", tooltip: "characters who are in only Chinese server", checked: true }
     ]
   }
 ];
@@ -143,14 +143,14 @@ dataSet[dataSetVersion].characterData = [
     name: "安 / 안",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["deft", "assassin", "physical", "female", "b", "awaken"]
+      attribute: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
     }
   },
   {
     name: "安托涅瓦 / 앙투아네트",
     img: "AAE6TUa.png",
     opts: {
-      attribute: ["deft", "mage", "magic", "female", "s", "awaken"]
+      attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
   {
