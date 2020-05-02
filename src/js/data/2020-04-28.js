@@ -8,44 +8,149 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain attributes",
     checked: true,
     sub: [
-			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: false },
-			{ name: "刚(강)", key: "tough", checked: false },
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: true },
+			{ name: "刚(강)", key: "tough", checked: true },
 			{ name: "巧(교)", key: "deft", checked: true },
-			{ name: "灵(영)", key: "spirit", checked: false },
-			{ name: "战士(전사)", key: "warrior", checked: false },
-			{ name: "坦克(탱커)", key: "tank", checked: false },
-			{ name: "法师(법사)", key: "mage", checked: false },
-			{ name: "影袭(암살)", key: "assassin", checked: false },
-			{ name: "射手(사수)", key: "shooter", checked: false },
-			{ name: "辅助(보조)", key: "support", checked: false },
-			{ name: "物理(물리)", key: "physical", checked: false },
-			{ name: "法术(마법)", key: "magic", checked: false },
-			{ name: "Collab", key: "collab", checked: false },
+			{ name: "灵(영)", key: "spirit", checked: true },
+			{ name: "战士(전사)", key: "warrior", checked: true },
+			{ name: "坦克(탱커)", key: "tank", checked: true },
+			{ name: "法师(법사)", key: "mage", checked: true },
+			{ name: "影袭(암살)", key: "assassin", checked: true },
+			{ name: "射手(사수)", key: "shooter", checked: true },
+			{ name: "辅助(보조)", key: "support", checked: true },
+			{ name: "物理(물리)", key: "physical", checked: true },
+			{ name: "法术(마법)", key: "magic", checked: true },
+			{ name: "Collab", key: "collab", checked: true },
 			{ name: "Female", key: "female", checked: true },
-			{ name: "Male", key: "male", checked: false },
-			{ name: "Initial rank S", key: "ranks", checked: false },
-    	{ name: "Initial rank A", key: "ranka", checked: false },
-			{ name: "Initial rank B", key: "rankb", checked: false },
-    	{ name: "Initial rank C", key: "rankc", checked: false },
-    	{ name: "NPC", key: "npc", tooltip: "ex: 指挥使(지휘사), 希罗(히로), 霞(카스미)", checked: false },
-    	{ name: "CN server only", key: "cn", tooltip: "characters who are in only Chinese server", checked: false }
+			{ name: "Male", key: "male", checked: true },
+			{ name: "Initial rank S", key: "ranks", checked: true },
+			{ name: "Initial rank A", key: "ranka", checked: true },
+			{ name: "Initial rank B", key: "rankb", checked: true },
+			{ name: "Initial rank C", key: "rankc", checked: true },
+			{ name: "NPC", key: "npc", tooltip: "ex: 指挥使(지휘사), 希罗(히로), 霞(카스미)", checked: true },
+			{ name: "CN server only", key: "cn", tooltip: "characters who are in only Chinese server", checked: true }
     ]
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
   {
+    name: "指挥使(女) / 지휘사(여)",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "指挥使(男) / 지휘사(남)",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "希罗 / 히로",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "雷切尔 / 레이첼",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "弗兰克丽丝 / 프랑크리스",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "霞 / 카스미",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "赛拉菲姆 / 세라핌",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "埃索林 / 아이솔린",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "艾芙·奈奈 / 나나코",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "莉莉娜 / 리리나",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "活骸零 / 유해 누르",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "克洛斯 / 클로스",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "安杰丽卡 / 안젤리카",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "史龙 / 사룡",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
+    name: "拉奥拉 / 라오라",
+    img: "1uLpuoE.png",
+    opts: { 
+      attribute: ["npc"]
+    }
+  },
+  {
     name: "安 / 안",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["deft", "assassin", "physical", "female", "b"]
+      attribute: ["deft", "assassin", "physical", "female", "b", "awaken"]
     }
   },
   {
     name: "安托涅瓦 / 앙투아네트",
     img: "AAE6TUa.png",
     opts: {
-      attribute: ["deft", "mage", "magic", "female", "s"]
+      attribute: ["deft", "mage", "magic", "female", "s", "awaken"]
     }
   },
   {
