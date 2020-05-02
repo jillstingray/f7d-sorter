@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica, serif;
-  font-size: 28px;
+  font-size: 16px;
 	background-color: white;
 }
 
@@ -35,7 +35,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: #ff6600;
+  background-color: black;
   width: 0%;
 }
 
@@ -125,7 +125,7 @@ body {
 }
 
 .sorter > .text > p {
-  margin: 0.5em 5px 0px;
+  margin: 0.5em 0.5em 0.5em;
   width: calc(100%-10em	);
   text-align: center;
   font-size: 1.1em;
@@ -146,6 +146,7 @@ body {
   margin: 1em auto;
   display: grid;
   text-align: left;
+  font-size: 1.6em;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   width: 450px;
@@ -267,11 +268,11 @@ label:hover {
 }
 
 a {
-  color: #990000;
+  color: gray;
   font-weight: bold;
   text-decoration: none;
 }
 
 a:hover, a:visited {
-  color: #ff6600;
+  color: blue;
 }
