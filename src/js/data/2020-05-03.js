@@ -789,28 +789,28 @@ dataSet[dataSetVersion].characterData = [
     name: "司篁 / 사황",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: ["spirit", "mage", "magic", "female", "ranks"]
+      attributes: ["spirit", "mage", "magic", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "钟遥 / 종야오",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: ["tough", "assassin", "magic", "male", "ranka"]
+      attributes: ["tough", "assassin", "magic", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "黑死 / 페스트",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "mage", "magic", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "雏雨 / 히나사메",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "warrior", "magic", "female", "ranka", "cnonly"]
     }
   },
 
@@ -818,35 +818,35 @@ dataSet[dataSetVersion].characterData = [
     name: "千式 / 천식",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "shooter", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "罗修 / 라슈",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "physical", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "杰诺尔 / 괴아노르",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "四枫院凛 / 시호인 린",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "shooter", "magic", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "片瑚 / 헨코",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
   },
 
@@ -854,35 +854,35 @@ dataSet[dataSetVersion].characterData = [
     name: "星灼 / 세이샤쿠",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "mage", "magic", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "邵言 / 소언",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "tank", "physical", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "莉娅 / 리아",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "support", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "天海奏 / 아마미 카나데",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "warrior", "magic", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "纳华特 / 나월트",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
   },
 
@@ -890,21 +890,21 @@ dataSet[dataSetVersion].characterData = [
     name: "希格莉法 / 시글리파",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
   },
 	{
     name: "早川百咏 / 하야카와 모에",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "warrior", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "摩卡 / 모카",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: []
+      attributes: ["spirit", "support", "magic", "female", "ranka", "cnonly"]
     }
   }
 ]
