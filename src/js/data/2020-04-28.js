@@ -136,7 +136,7 @@ dataSet[dataSetVersion].characterData = [
     name: "拉奥拉 / 라오라",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc", "cnonly"]
+      attribute: ["male", "npc", "cnonly"]
     }
   },
   {
