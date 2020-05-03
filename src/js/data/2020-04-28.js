@@ -38,98 +38,98 @@ dataSet[dataSetVersion].characterData = [
     name: "指挥使(女) / 지휘사(여)",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "指挥使(男) / 지휘사(남)",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["male", "npc"]
     }
   },
   {
     name: "希罗 / 히로",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["male", "npc"]
     }
   },
   {
     name: "雷切尔 / 레이첼",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["male", "npc"]
     }
   },
   {
     name: "弗兰克丽丝 / 프랑크리스",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "霞 / 카스미",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "赛拉菲姆 / 세라핌",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "埃索林 / 아이솔린",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc", "cnonly"]
     }
   },
   {
     name: "艾芙·奈奈 / 나나코",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "莉莉娜 / 리리나",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "活骸零 / 유해 누르",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "克洛斯 / 클로스",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["male", "npc"]
     }
   },
   {
     name: "安杰丽卡 / 안젤리카",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["female", "npc"]
     }
   },
   {
     name: "史龙 / 사룡",
     img: "1uLpuoE.png",
     opts: { 
-      attribute: ["npc"]
+      attribute: ["male", "npc"]
     }
   },
   {
@@ -445,42 +445,42 @@ dataSet[dataSetVersion].characterData = [
     name: "菲尼克 / 피닉",
     img: "lY6ophn.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "mage", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
      name: "璃璃子 / 리리코",
      img: "F1a7fdb.png",
      opts: {
-       attributes: [  ]
+       attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
      }
   },
 	{
     name: "尤梨 / 유리",
     img: "xa2PgEO.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "柯路诺 / 크루노",
     img: "af1EKEw.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "assassin", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "雷克特 / 렉터",
     img: "7SuHV3w.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "夜 / 나이트",
     img: "whUTpHI.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "assassin", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
