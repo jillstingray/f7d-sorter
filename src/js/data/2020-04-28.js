@@ -487,161 +487,161 @@ dataSet[dataSetVersion].characterData = [
     name: "屠怯怯 / 토쿄쿄",
     img: "RrlVRB2.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "牧濑红莉栖 / 마키세 크리스",
     img: "ad80FW0.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "shooter", "physical", "collab", "female", "ranks"]
     }
   },
 	{
     name: "椎名真由理 / 시이나 마유리",
     img: "wh25GF5.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "mage", "physical", "collab", "female", "ranka"]
     }
   },
 	{
     name: "冈部伦太郎 / 오카베 린타로",
     img: "8le2MoJ.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "艾莉兹 / 아리즈",
     img: "88UyZXE.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "shooter", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "维恩 / 비엔",
     img: "3CuJ6qV.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "mage", "magic", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "莉米亚 / 리미아",
     img: "Wp7kKcM.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "tank", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "初音未来 / 하츠네 미쿠",
     img: "iZYVrG1.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "mage", "magic", "collab", "female", "ranks"]
     }
   },
 	{
     name: "KAITO",
     img: "RzP0DUe.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "tank", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "初音未来 / 하츠네 미쿠",
     img: "ohOxEQe.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "support", "magic", "collab", "female", "ranks"]
     }
   },
 	{
     name: "MEIKO",
     img: "vUqRnTw.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "shooter", "physical", "collab", "female", "ranka"]
     }
   },
 	{
     name: "伊萨克 / 이자크",
     img: "71H4dba.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "黑尔加 / 헬가",
     img: "Aq2EqyD.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "tank", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "格蕾莎 / 그레이사",
     img: "fVJx9m3.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "shooter", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "亚修 / 아슈",
     img: "BN2Ovyn.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "support", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "青檀 / 칭탄",
     img: "furXsU0.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "support", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "阮颜 / 루안 옌",
     img: "mZvOIde.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "阮羽 / 루안 유",
     img: "ojNsbRl.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "tank", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "凛雾 / 린무",
     img: "7wF4ekx.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "朵朵 / 도도",
     img: "Dlm45RD.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "格雷穆 / 그레이무",
     img: "RctxyjS.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "瑟雷斯 / 세레스",
     img: "s2qRx1v.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "tank", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "伊斯卡里奥 / 이스카리오",
     img: "0vZOYg8.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
