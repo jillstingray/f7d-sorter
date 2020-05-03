@@ -662,21 +662,21 @@ dataSet[dataSetVersion].characterData = [
     name: "阿希莉亚 / 아실리아",
     img: "obccmpx.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "assassin", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "重渊 / 중연",
     img: "fPWzr6c.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "warrior", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "萝月 / 라게츠",
     img: "5xtBaAw.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "mage", "magic" ,"awaken", "female", "ranka"]
     }
   },
 	{
