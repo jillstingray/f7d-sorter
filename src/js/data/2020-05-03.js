@@ -420,14 +420,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "初音未来 / 하츠네 미쿠",
+    name: "初音未来 / MIKU",
     img: "WbzPN5j.png",
     opts: {
       attributes: ["tough", "shooter", "physical", "collab", "female", "ranks"]
     }
   },
 	{
-    name: "巡音流歌 / 메구리네 루카",
+    name: "巡音流歌 / LUKA",
     img: "hyUHyu7.png",
     opts: {
       attributes: ["deft", "support", "magic", "collab", "female", "ranka"]
@@ -435,7 +435,7 @@ dataSet[dataSetVersion].characterData = [
   },
 
 	{
-    name: "镜音铃・连 / 카가미네 린, 렌",
+    name: "镜音铃・连 / RIN·LEN",
     img: "jo5rLTS.png",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "male", "ranka"]
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "初音未来 / 하츠네 미쿠",
+    name: "初音未来・黑羊之歌 / MIKU·검은 양",
     img: "iZYVrG1.png",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "ranks"]
@@ -547,7 +547,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "初音未来 / 하츠네 미쿠",
+    name: "初音未来・纯白福音 / MIKU·순백의 복음",
     img: "ohOxEQe.png",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranks"]
@@ -694,7 +694,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "木之本樱 / 체리",
+    name: "木之本樱・透明牌魔法使 / 체리·클리어 카드캡터",
     img: "bzQVkpk.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "collab", "female", "ranks"]
@@ -715,7 +715,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "木之本樱 / 체리",
+    name: "木之本樱・库洛牌魔法使 / 체리·크로우 카드캡터",
     img: "7LE9AYz.png",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranka"]
