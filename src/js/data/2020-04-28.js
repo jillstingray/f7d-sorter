@@ -725,56 +725,56 @@ dataSet[dataSetVersion].characterData = [
     name: "十玖 / 쥬쿠",
     img: "Ur3rGdT.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "assassin", "physical", "female", "ranks"]
     }
   },
 	{
     name: "奥德里奇 / 알드리치",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "shooter", "magic", "male", "ranka"]
     }
   },
 		{
     name: "苍澜 / 소우란",
     img: "a5xuZ9N.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "support", "magic", "male", "ranks"]
     }
   },
 	{
     name: "宝妮 / 보니",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "tank", "magic", "female", "ranka"]
     }
   },
 	{
     name: "源千雪 / 치유키",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "support", "physical", "female", "ranks"]
     }
   },
 	{
     name: "美咲 / 미사키",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "support", "magic", "female", "ranka"]
     }
   },
 	{
     name: "维尔特 / 빌트",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "warrior", "physical", "male", "ranka"]
     }
   },
 	{
     name: "雷音 / 라이온",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "mage", "magic", "female", "ranks"]
     }
   },
 
@@ -782,21 +782,21 @@ dataSet[dataSetVersion].characterData = [
     name: "西莉 / 시리",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "shooter", "physical", "female", "ranka"]
     }
   },
 	{
     name: "司篁 / 사황",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "mage", "magic", "female", "ranks"]
     }
   },
 	{
     name: "钟遥 / 종야오",
     img: "jI0Fp4r.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "assassin", "magic", "male", "ranka"]
     }
   },
 	{
