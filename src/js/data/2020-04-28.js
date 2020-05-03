@@ -648,14 +648,14 @@ dataSet[dataSetVersion].characterData = [
     name: "朝奈 / 아사나",
     img: "DVrB86K.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "mage", "magic", "female", "ranks"]
     }
   },
 	{
     name: "韦迪 / 웨이디",
     img: "ReEoeyV.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "assassin", "physical", "male", "ranka"]
     }
   },
 	{
@@ -683,42 +683,42 @@ dataSet[dataSetVersion].characterData = [
     name: "蕾娜 / 레나",
     img: "SAAMAu1.png",
     opts: {
-      attributes: [  ]
+      attributes: ["deft", "tank", "physical", "female", "ranks"]
     }
   },
 	{
     name: "白歌 / 핫카",
     img: "4pjxxzA.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "assassin", "physical", "female", "ranka"]
     }
   },
 	{
     name: "木之本樱 / 체리",
     img: "bzQVkpk.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "mage", "magic", "collab", "female", "ranks"]
     }
   },
 	{
      name: "月 / 유에",
      img: "VIJC2UW.png",
      opts: {
-       attributes: [  ]
+       attributes: ["deft", "shooter", "physical", "collab", "male", "ranks"]
      }
   },
 	{
     name: "李小狼 / 샤오랑",
     img: "lMrA7KF.png",
     opts: {
-      attributes: [  ]
+      attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "木之本樱 / 체리",
     img: "7LE9AYz.png",
     opts: {
-      attributes: [  ]
+      attributes: ["spirit", "support", "magic", "collab", "female", "ranka"]
     }
   },
 	{
