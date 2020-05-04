@@ -36,399 +36,399 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "指挥使(女) / 지휘사(여)",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "指挥使(男) / 지휘사(남)",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "希罗 / 히로",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "雷切尔 / 레이첼",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "弗兰克丽丝 / 프랑크리스",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "霞 / 카스미",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "赛拉菲姆 / 세라핌",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "埃索林 / 아이솔린",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc", "cnonly"]
     }
   },
   {
     name: "艾芙·奈奈 / 나나코",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "莉莉娜 / 리리나",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "活骸零 / 유해 누르",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "克洛斯 / 클로스",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "安杰丽卡 / 안젤리카",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "史龙 / 사룡",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "拉奥拉 / 라오라",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["male", "npc", "cnonly"]
     }
   },
   {
     name: "安 / 안",
-    img: "1uLpuoE.png",
+    img: "",
     opts: { 
       attribute: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
     }
   },
   {
     name: "安托涅瓦 / 앙투아네트",
-    img: "AAE6TUa.png",
+    img: "",
     opts: {
       attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
   {
     name: "珈儿 / 카지",
-    img: "Kg08ML1.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "rankc"]
     }
   },
   {
     name: "西比尔 / 시비르",
-    img: "a48YYnr.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "rankb"]
     }
   },
   {
     name: "晏华 / 안화",
-    img: "I6vzxkF.png",
+    img: "",
     opts: {
       attributes: ["deft", "shooter", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "爱缪莎 / 에뮤사",
-    img: "qyvtAAP.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "奥露西娅 / 오로시아",
-    img: "2fe0ury.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "罗纳克 / 로나크",
-    img: "0XgLAON.png",
+    img: "",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "芙罗拉 / 플로라",
-    img: "LDzx5iY.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "达尔维拉 / 달비라",
-    img: "rHFVaDh.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "雯梓 / 웬시",
-    img: "lGdLIzC.png",
+    img: "",
     opts: {
       attributes: ["deft", "support", "magic", "awaken", "female", "rankc"]
     }
   },
 	{
     name: "钟函谷 / 종한구",
-    img: "ccm0Xwj.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "male", "ranks", "kronly"]
     }
   },
 	{
     name: "阿岚 / 아라시",
-    img: "r28PfSj.png",
+    img: "",
     opts: {
       attributes: ["spirit", "assassin", "physical", "awaken", "male", "rankb"]
     }
   },
 	{
     name: "伽梨耶 / 가리에",
-    img: "nZZ0mJQ.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "magic", "awaken", "female", "rankc"]
     }
   },
 	{
     name: "赛斯 / 세츠",
-    img: "HDm0zdn.png",
+    img: "",
     opts: {
       attributes: ["tough", "support", "magic", "awaken", "male", "rankc"]
     }
   },
 	{
     name: "羽弥 / 와타리",
-    img: "J2Gt6Xm.png",
+    img: "",
     opts: {
       attributes: ["spirit", "tank", "magic", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "米菈 / 미라",
-    img: "vC1YLyq.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "泰丝拉 / 테슬라",
-    img: "4QKJ6RK.png",
+    img: "",
     opts: {
       attributes: ["tough", "shooter", "physical", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "艾露比 / 에루비",
-    img: "qme8ivx.png",
+    img: "",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "薇拉 / 베라",
-    img: "CyFZxdc.png",
+    img: "",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "妮维 / 니유",
-    img: "iLUO5ik.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "physical", "awaken", "female", "rankc"]
     }
   },
 	{
     name: "濑由衣 / 세이유이",
-    img: "nBMSHYR.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "幽桐 / 유우토",
-    img: "XCXThLs.png",
+    img: "",
     opts: {
       attributes: ["deft", "shooter", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "乌鹭 / 우류",
-    img: "PrtWnJV.png",
+    img: "",
     opts: {
       attributes: ["spirit", "tank", "physical", "awaken", "male", "rankc"]
     }
   },
 	{
     name: "达格 / 더그",
-    img: "s9KV2pz.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "rankb"]
     }
   },
 	{
     name: "璐璐 / 룰루",
-    img: "sbHS0jh.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "丽 / 레이",
-    img: "NU5ggG3.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "莱奥斯 / 레오스",
-    img: "eVMBODw.png",
+    img: "",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "male", "rankb"]
     }
   },
 	{
     name: "赛哈姆 / 사하무",
-    img: "qgMi8WP.png",
+    img: "",
     opts: {
       attributes: ["tough", "shooter", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "瞬 / 슌",
-    img: "6BItCqM.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "千藻诗歌 / 치모시카",
-    img: "pxedL6Y.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "magic", "awaken", "female", "rankb"]
     }
   },
 	{
     name: "虎彻 / 호체",
-    img: "Lr9Qxnp.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "male", "rankc"]
     }
   },
 	{
     name: "穆娅 / 뮤아",
-    img: "sQLQ1V6.png",
+    img: "",
     opts: {
       attributes: ["tough", "support", "magic", "female", "rankb"]
     }
   },
 	{
     name: "李若胤 / 리로이",
-    img: "xlKr3zc.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "male", "rankb"]
     }
   },
 	{
     name: "夏狩 / 샤슈",
-    img: "4H5EVSr.png",
+    img: "",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "male", "rankc"]
     }
   },
 	{
      name: "巴裘拉 / 바쿠라",
-     img: "m7a3Ofs.png",
+     img: "",
      opts: {
 	attributes: ["deft", "assassin", "physical", "awaken", "male", "rankc"]
      }
   },
 	{
     name: "巫殷 / 우윈",
-    img: "EVEQks9.png",
+    img: "",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "female", "rankc"]
     }
   },
 	{
     name: "白 / 시로",
-    img: "NLhPu1N.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "零 / 누르",
-    img: "Z5MvXGn.png",
+    img: "",
     opts: {
       attributes: ["deft", "support", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "拉比 / 라비",
-    img: "yRbrX9c.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "初音未来 / MIKU",
-    img: "WbzPN5j.png",
+    img: "",
     opts: {
       attributes: ["tough", "shooter", "physical", "collab", "female", "ranks"]
     }
   },
 	{
     name: "巡音流歌 / LUKA",
-    img: "hyUHyu7.png",
+    img: "",
     opts: {
       attributes: ["deft", "support", "magic", "collab", "female", "ranka"]
     }
@@ -436,343 +436,343 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "镜音铃・连 / RIN·LEN",
-    img: "jo5rLTS.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "male", "ranka"]
     }
   },
 	{
     name: "菲尼克 / 피닉",
-    img: "lY6ophn.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
      name: "璃璃子 / 리리코",
-     img: "F1a7fdb.png",
+     img: "",
      opts: {
        attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
      }
   },
 	{
     name: "尤梨 / 유리",
-    img: "xa2PgEO.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "柯路诺 / 크루노",
-    img: "af1EKEw.png",
+    img: "",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "雷克特 / 렉터",
-    img: "7SuHV3w.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "夜 / 나이트",
-    img: "whUTpHI.png",
+    img: "",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "屠怯怯 / 토쿄쿄",
-    img: "RrlVRB2.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "牧濑红莉栖 / 마키세 크리스",
-    img: "ad80FW0.png",
+    img: "",
     opts: {
       attributes: ["deft", "shooter", "physical", "collab", "female", "ranks"]
     }
   },
 	{
     name: "椎名真由理 / 시이나 마유리",
-    img: "wh25GF5.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "physical", "collab", "female", "ranka"]
     }
   },
 	{
     name: "冈部伦太郎 / 오카베 린타로",
-    img: "8le2MoJ.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "艾莉兹 / 아리즈",
-    img: "88UyZXE.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "维恩 / 비엔",
-    img: "3CuJ6qV.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "莉米亚 / 리미아",
-    img: "Wp7kKcM.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "初音未来・黑羊之歌 / MIKU·검은 양",
-    img: "iZYVrG1.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "ranks"]
     }
   },
 	{
     name: "KAITO",
-    img: "RzP0DUe.png",
+    img: "",
     opts: {
       attributes: ["spirit", "tank", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "初音未来・纯白福音 / MIKU·순백의 복음",
-    img: "ohOxEQe.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranks"]
     }
   },
 	{
     name: "MEIKO",
-    img: "vUqRnTw.png",
+    img: "",
     opts: {
       attributes: ["tough", "shooter", "physical", "collab", "female", "ranka"]
     }
   },
 	{
     name: "伊萨克 / 이자크",
-    img: "71H4dba.png",
+    img: "",
     opts: {
       attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "黑尔加 / 헬가",
-    img: "Aq2EqyD.png",
+    img: "",
     opts: {
       attributes: ["tough", "tank", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "格蕾莎 / 그레이사",
-    img: "fVJx9m3.png",
+    img: "",
     opts: {
       attributes: ["deft", "shooter", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "亚修 / 아슈",
-    img: "BN2Ovyn.png",
+    img: "",
     opts: {
       attributes: ["deft", "support", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "青檀 / 칭탄",
-    img: "furXsU0.png",
+    img: "",
     opts: {
       attributes: ["tough", "support", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "阮颜 / 루안 옌",
-    img: "mZvOIde.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "阮羽 / 루안 유",
-    img: "ojNsbRl.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "凛雾 / 린무",
-    img: "7wF4ekx.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "朵朵 / 도도",
-    img: "Dlm45RD.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "格雷穆 / 그레이무",
-    img: "RctxyjS.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "瑟雷斯 / 세레스",
-    img: "s2qRx1v.png",
+    img: "",
     opts: {
       attributes: ["spirit", "tank", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "伊斯卡里奥 / 이스카리오",
-    img: "0vZOYg8.png",
+    img: "",
     opts: {
       attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "朝奈 / 아사나",
-    img: "DVrB86K.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "female", "ranks"]
     }
   },
 	{
     name: "韦迪 / 웨이디",
-    img: "ReEoeyV.png",
+    img: "",
     opts: {
       attributes: ["spirit", "assassin", "physical", "male", "ranka"]
     }
   },
 	{
     name: "阿希莉亚 / 아실리아",
-    img: "obccmpx.png",
+    img: "",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "重渊 / 중연",
-    img: "fPWzr6c.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "萝月 / 라게츠",
-    img: "5xtBaAw.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic" ,"awaken", "female", "ranka"]
     }
   },
 	{
     name: "蕾娜 / 레나",
-    img: "SAAMAu1.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "physical", "female", "ranks"]
     }
   },
 	{
     name: "白歌 / 핫카",
-    img: "4pjxxzA.png",
+    img: "",
     opts: {
       attributes: ["tough", "assassin", "physical", "female", "ranka"]
     }
   },
 	{
     name: "木之本樱・透明牌魔法使 / 체리·클리어 카드캡터",
-    img: "bzQVkpk.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "collab", "female", "ranks"]
     }
   },
 	{
      name: "月 / 유에",
-     img: "VIJC2UW.png",
+     img: "",
      opts: {
        attributes: ["deft", "shooter", "physical", "collab", "male", "ranks"]
      }
   },
 	{
     name: "李小狼 / 샤오랑",
-    img: "lMrA7KF.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "木之本樱・库洛牌魔法使 / 체리·크로우 카드캡터",
-    img: "7LE9AYz.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranka"]
     }
   },
 	{
     name: "十玖 / 쥬쿠",
-    img: "Ur3rGdT.png",
+    img: "",
     opts: {
       attributes: ["spirit", "assassin", "physical", "female", "ranks"]
     }
   },
 	{
     name: "奥德里奇 / 알드리치",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "shooter", "magic", "male", "ranka"]
     }
   },
 		{
     name: "苍澜 / 소우란",
-    img: "a5xuZ9N.png",
+    img: "",
     opts: {
       attributes: ["deft", "support", "magic", "male", "ranks"]
     }
   },
 	{
     name: "宝妮 / 보니",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "tank", "magic", "female", "ranka"]
     }
   },
 	{
     name: "源千雪 / 치유키",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "physical", "female", "ranks"]
     }
   },
 	{
     name: "美咲 / 미사키",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "support", "magic", "female", "ranka"]
     }
   },
 	{
     name: "维尔特 / 빌트",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranka"]
     }
   },
 	{
     name: "雷音 / 라이온",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks"]
     }
@@ -780,35 +780,35 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "西莉 / 시리",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "physical", "female", "ranka"]
     }
   },
 	{
     name: "司篁 / 사황",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "mage", "magic", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "钟遥 / 종야오",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "assassin", "magic", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "黑死 / 페스트",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "mage", "magic", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "雏雨 / 히나사메",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "magic", "female", "ranka", "cnonly"]
     }
@@ -816,35 +816,35 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "千式 / 천식",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "shooter", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "罗修 / 라슈",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "杰诺尔 / 괴아노르",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "四枫院凛 / 시호인 린",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "shooter", "magic", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "片瑚 / 헨코",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
@@ -852,35 +852,35 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "星灼 / 세이샤쿠",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "邵言 / 소언",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "tank", "physical", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "莉娅 / 리아",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "support", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "天海奏 / 아마미 카나데",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "magic", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "纳华特 / 나월트",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
@@ -888,21 +888,21 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "希格莉法 / 시글리파",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
   },
 	{
     name: "早川百咏 / 하야카와 모에",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "warrior", "physical", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "摩卡 / 모카",
-    img: "jI0Fp4r.png",
+    img: "",
     opts: {
       attributes: ["spirit", "support", "magic", "female", "ranka", "cnonly"]
     }
