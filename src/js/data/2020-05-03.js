@@ -337,7 +337,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "赛哈姆 / 사하무",
-    img: "",
+    img: "BeWbiO5.png",
     opts: {
       attributes: ["tough", "shooter", "physical", "awaken", "female", "ranka"]
     }
