@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "芙罗拉 / 플로라",
-    img: "",
+    img: "uuqfx4u.png",
     opts: {
       attributes: ["spirit", "support", "magic", "awaken", "female", "ranka"]
     }
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "泰丝拉 / 테슬라",
-    img: "",
+    img: "vCB4TKd.png",
     opts: {
       attributes: ["tough", "shooter", "physical", "awaken", "female", "rankb"]
     }
@@ -358,7 +358,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "虎彻 / 호체",
-    img: "",
+    img: "C8DPEoO.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "male", "rankc"]
     }
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "初音未来 / MIKU",
-    img: "",
+    img: "hcHsCrX.png",
     opts: {
       attributes: ["tough", "shooter", "physical", "collab", "female", "ranks"]
     }
@@ -443,7 +443,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "菲尼克 / 피닉",
-    img: "",
+    img: "73KUXrP.png",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "male", "ranks"]
     }
@@ -485,7 +485,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "屠怯怯 / 토쿄쿄",
-    img: "",
+    img: "HBzu0cA.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "female", "ranka"]
     }
@@ -534,7 +534,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "初音未来・黑羊之歌 / MIKU·검은 양",
-    img: "",
+    img: "OSSxnd9.png",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "ranks"]
     }
@@ -548,7 +548,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "初音未来・纯白福音 / MIKU·순백의 복음",
-    img: "",
+    img: "9lICZ7q.png",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranks"]
     }
@@ -569,7 +569,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "黑尔加 / 헬가",
-    img: "",
+    img: "LVzQK7t.png",
     opts: {
       attributes: ["tough", "tank", "magic", "awaken", "female", "ranks"]
     }
@@ -688,7 +688,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "白歌 / 핫카",
-    img: "",
+    img: "ZfkQsXE.png",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "female", "ranka"]
     }
@@ -801,14 +801,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "黑死 / 페스트",
-    img: "",
+    img: "XgOkf0x.png",
     opts: {
       attributes: ["deft", "mage", "magic", "male", "ranks", "cnonly"]
     }
   },
 	{
     name: "雏雨 / 히나사메",
-    img: "",
+    img: "5lTsP8h.png",
     opts: {
       attributes: ["deft", "warrior", "magic", "female", "ranka", "cnonly"]
     }
@@ -844,7 +844,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "片瑚 / 헨코",
-    img: "",
+    img: "HlQGg58.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
@@ -895,7 +895,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "早川百咏 / 하야카와 모에",
-    img: "",
+    img: "SFi73hp.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "female", "ranks", "cnonly"]
     }
