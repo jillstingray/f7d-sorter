@@ -36,56 +36,56 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "指挥使(女) / 지휘사(여)",
-    img: "",
+    img: "EVg40Gw.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "指挥使(男) / 지휘사(남)",
-    img: "",
+    img: "oz2D72K.png",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "希罗 / 히로",
-    img: "",
+    img: "5zCGRko.png",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "雷切尔 / 레이첼",
-    img: "",
+    img: "nR2Gp8v.png",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "弗兰克丽丝 / 프랑크리스",
-    img: "",
+    img: "oElBIje.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "霞 / 카스미",
-    img: "",
+    img: "prHRCzz.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "赛拉菲姆 / 세라핌",
-    img: "",
+    img: "OVpsWqB.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "埃索林 / 아이솔린",
-    img: "",
+    img: "nW565EM.png",
     opts: { 
       attribute: ["female", "npc", "cnonly"]
     }
@@ -99,42 +99,42 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "莉莉娜 / 리리나",
-    img: "",
+    img: "D9uLiqT.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "活骸零 / 유해 누르",
-    img: "",
+    img: "uesab6F.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "克洛斯 / 클로스",
-    img: "",
+    img: "BmvAd0o.png",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "安杰丽卡 / 안젤리카",
-    img: "",
+    img: "LJFMUcg.png",
     opts: { 
       attribute: ["female", "npc"]
     }
   },
   {
     name: "史龙 / 사룡",
-    img: "",
+    img: "N0BwYdo.png",
     opts: { 
       attribute: ["male", "npc"]
     }
   },
   {
     name: "拉奥拉 / 라오라",
-    img: "",
+    img: "g0mEl9E.png",
     opts: { 
       attribute: ["male", "npc", "cnonly"]
     }
