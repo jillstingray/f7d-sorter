@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "千藻诗歌 / 치모시카",
-    img: "",
+    img: "boUe03o.png",
     opts: {
       attributes: ["spirit", "shooter", "magic", "awaken", "female", "rankb"]
     }
@@ -590,7 +590,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "青檀 / 칭탄",
-    img: "",
+    img: "98mmu4n.png",
     opts: {
       attributes: ["tough", "support", "magic", "awaken", "male", "ranks"]
     }
@@ -695,7 +695,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "木之本樱・透明牌魔法使 / 체리·클리어 카드캡터",
-    img: "",
+    img: "9NIewDQ.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "collab", "female", "ranks"]
     }
@@ -716,7 +716,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "木之本樱・库洛牌魔法使 / 체리·크로우 카드캡터",
-    img: "",
+    img: "QnlHEuK.png",
     opts: {
       attributes: ["spirit", "support", "magic", "collab", "female", "ranka"]
     }
@@ -751,7 +751,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "源千雪 / 치유키",
-    img: "",
+    img: "4qIJpGo.png",
     opts: {
       attributes: ["spirit", "support", "physical", "female", "ranks"]
     }
@@ -816,7 +816,7 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "千式 / 천식",
-    img: "",
+    img: "Niph4pK.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "female", "ranks", "cnonly"]
     }
