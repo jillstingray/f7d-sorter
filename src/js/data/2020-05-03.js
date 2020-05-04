@@ -253,7 +253,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "米菈 / 미라",
-    img: "",
+    img: "Z6O31aI.png",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "rankb"]
     }
@@ -365,7 +365,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "穆娅 / 뮤아",
-    img: "",
+    img: "V2rzc18.png",
     opts: {
       attributes: ["tough", "support", "magic", "female", "rankb"]
     }
@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "巡音流歌 / LUKA",
-    img: "",
+    img: "FIgpuC7.png",
     opts: {
       attributes: ["deft", "support", "magic", "collab", "female", "ranka"]
     }
@@ -492,7 +492,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "牧濑红莉栖 / 마키세 크리스",
-    img: "",
+    img: "ZuCR03F.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "collab", "female", "ranks"]
     }
@@ -555,7 +555,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "MEIKO",
-    img: "",
+    img: "fS8PbYq.png",
     opts: {
       attributes: ["tough", "shooter", "physical", "collab", "female", "ranka"]
     }
@@ -758,7 +758,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "美咲 / 미사키",
-    img: "",
+    img: "t072c8P.png",
     opts: {
       attributes: ["tough", "support", "magic", "female", "ranka"]
     }
@@ -902,7 +902,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "摩卡 / 모카",
-    img: "",
+    img: "W59xVrC.png",
     opts: {
       attributes: ["spirit", "support", "magic", "female", "ranka", "cnonly"]
     }
