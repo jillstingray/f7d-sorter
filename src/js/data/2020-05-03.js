@@ -155,7 +155,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "珈儿 / 카지",
-    img: "",
+    img: "XgvMAAm.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "rankc"]
     }
@@ -436,7 +436,7 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "镜音铃・连 / RIN·LEN",
-    img: "",
+    img: "UPRb5Fc.png",
     opts: {
       attributes: ["deft", "mage", "magic", "collab", "female", "male", "ranka"]
     }
@@ -464,7 +464,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "柯路诺 / 크루노",
-    img: "",
+    img: "3K9fuxI.png",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "male", "ranka"]
     }
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "KAITO",
-    img: "",
+    img: "5gR7Lop.png",
     opts: {
       attributes: ["spirit", "tank", "magic", "collab", "male", "ranka"]
     }
