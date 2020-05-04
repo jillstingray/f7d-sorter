@@ -141,14 +141,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "安 / 안",
-    img: "",
+    img: "bOX2xDi.png",
     opts: { 
       attribute: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
     }
   },
   {
     name: "安托涅瓦 / 앙투아네트",
-    img: "",
+    img: "KvVbtyO.png",
     opts: {
       attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
@@ -169,21 +169,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "晏华 / 안화",
-    img: "",
+    img: "4GhAPAo.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "爱缪莎 / 에뮤사",
-    img: "",
+    img: "Gv2YOFg.png",
     opts: {
       attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "奥露西娅 / 오로시아",
-    img: "",
+    img: "WTHRnQz.png",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "female", "ranka"]
     }
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "雯梓 / 웬시",
-    img: "",
+    img: "0tIvjHx.png",
     opts: {
       attributes: ["deft", "support", "magic", "awaken", "female", "rankc"]
     }
@@ -225,7 +225,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "阿岚 / 아라시",
-    img: "",
+    img: "p3x0zlo.png",
     opts: {
       attributes: ["spirit", "assassin", "physical", "awaken", "male", "rankb"]
     }
@@ -246,7 +246,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "羽弥 / 와타리",
-    img: "",
+    img: "zoHbvAO.png",
     opts: {
       attributes: ["spirit", "tank", "magic", "awaken", "female", "rankb"]
     }
@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "艾露比 / 에루비",
-    img: "",
+    img: "3R2wNbr.png",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
     }
@@ -295,14 +295,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "幽桐 / 유우토",
-    img: "",
+    img: "ZrrcylR.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "乌鹭 / 우류",
-    img: "",
+    img: "LpbfRrC.png",
     opts: {
       attributes: ["spirit", "tank", "physical", "awaken", "male", "rankc"]
     }
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
     name: "达格 / 더그",
     img: "WIfVDOQ.png",
     opts: {
-      attributes: ["tough", "warrior", "physical", "male", "rankb"]
+      attributes: ["tough", "warrior", "physical", "awaken", "male", "rankb"]
     }
   },
 	{
@@ -393,7 +393,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "巫殷 / 우윈",
-    img: "",
+    img: "oCG45Cf.png",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "female", "rankc"]
     }
@@ -457,7 +457,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "尤梨 / 유리",
-    img: "",
+    img: "43ZNqRi.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "ranka"]
     }
@@ -506,14 +506,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "冈部伦太郎 / 오카베 린타로",
-    img: "",
+    img: "MZUsKbZ.png",
     opts: {
       attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
   },
 	{
     name: "艾莉兹 / 아리즈",
-    img: "",
+    img: "1MPnGDN.png",
     opts: {
       attributes: ["spirit", "shooter", "physical", "awaken", "female", "ranks"]
     }
@@ -562,7 +562,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "伊萨克 / 이자크",
-    img: "",
+    img: "7TlCpT7.png",
     opts: {
       attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
@@ -583,7 +583,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "亚修 / 아슈",
-    img: "",
+    img: "kdBwWGQ.png",
     opts: {
       attributes: ["deft", "support", "physical", "awaken", "male", "ranka"]
     }
@@ -639,28 +639,28 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "伊斯卡里奥 / 이스카리오",
-    img: "",
+    img: "yyJ85h8.png",
     opts: {
       attributes: ["spirit", "assassin", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
     name: "朝奈 / 아사나",
-    img: "",
+    img: "1hbrOL6.png",
     opts: {
       attributes: ["deft", "mage", "magic", "female", "ranks"]
     }
   },
 	{
     name: "韦迪 / 웨이디",
-    img: "",
+    img: "nhpDSlC.png",
     opts: {
       attributes: ["spirit", "assassin", "physical", "male", "ranka"]
     }
   },
 	{
     name: "阿希莉亚 / 아실리아",
-    img: "",
+    img: "E4Zmqja.png",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "female", "ranks"]
     }
@@ -683,14 +683,14 @@ dataSet[dataSetVersion].characterData = [
     name: "蕾娜 / 레나",
     img: "jd2B7hA.png",
     opts: {
-      attributes: ["deft", "tank", "physical", "female", "ranks"]
+      attributes: ["deft", "tank", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "白歌 / 핫카",
     img: "",
     opts: {
-      attributes: ["tough", "assassin", "physical", "female", "ranka"]
+      attributes: ["tough", "assassin", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
@@ -702,7 +702,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
      name: "月 / 유에",
-     img: "",
+     img: "S51lRDX.png",
      opts: {
        attributes: ["deft", "shooter", "physical", "collab", "male", "ranks"]
      }
@@ -730,7 +730,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "奥德里奇 / 알드리치",
-    img: "",
+    img: "XCRKyer.png",
     opts: {
       attributes: ["tough", "shooter", "magic", "male", "ranka"]
     }
@@ -873,7 +873,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "天海奏 / 아마미 카나데",
-    img: "",
+    img: "GE3QQi9.png",
     opts: {
       attributes: ["spirit", "warrior", "magic", "male", "ranka", "cnonly"]
     }
