@@ -92,7 +92,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "艾芙·奈奈 / 나나코",
-    img: "",
+    img: "wGfBWbn.png",
     opts: { 
       attribute: ["female", "npc"]
     }
