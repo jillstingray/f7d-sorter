@@ -28,7 +28,7 @@ let leftIndex       = 0;
 let leftInnerIndex  = 0;
 let rightIndex      = 0;
 let rightInnerIndex = 0;
-let battleNo        = 1;
+let waveNo          = 1;
 let sortedNo        = 0;
 let pointer         = 0;
 
@@ -42,14 +42,14 @@ let leftIndexPrev       = 0;
 let leftInnerIndexPrev  = 0;
 let rightIndexPrev      = 0;
 let rightInnerIndexPrev = 0;
-let battleNoPrev        = 1;
+let waveNoPrev          = 1;
 let sortedNoPrev        = 0;
 let pointerPrev         = 0;
 
 /** Miscellaneous sorter data that doesn't need to be saved for undo(). */
 let finalCharacters = [];
 let loading         = false;
-let totalBattles    = 0;
+let totalwaves      = 0;
 let sorterURL       = window.location.host + window.location.pathname;
 let storedSaveType  = localStorage.getItem(`${sorterURL}_saveType`);
 
@@ -76,7 +76,7 @@ function init() {
   /** Define keyboard controls (up/down/left/right vimlike k/j/h/l). */
   document.addEventListener('keypress', (ev) => {
     /** If sorting is in progress. */
-    if (timestamp && !timeTaken && !loading && choices.length === battleNo - 1) {
+    if (timestamp && !timeTaken && !loading && choices.length === waveNo - 1) {
       switch(ev.key) {
         case 's': case '3':                   saveProgress('Progress'); break;
         case 'h': case 'ArrowLeft':           pick('left'); break;
@@ -87,7 +87,7 @@ function init() {
       }
     }
     /** If sorting has ended. */
-    else if (timeTaken && choices.length === battleNo - 1) {
+    else if (timeTaken && choices.length === waveNo - 1) {
       switch(ev.key) {
         case 'k': case '1': saveProgress('Last Result'); break;
         case 'j': case '2': generateImage(); break;
@@ -240,12 +240,12 @@ function start() {
       midpoint = Math.ceil(parent.length / 2);
 
       sortedIndexList[marker] = parent.slice(0, midpoint);              // Split the array in half, and put the left half into the marked index.
-      totalBattles += sortedIndexList[marker].length;                   // The result's length will add to our total number of comparisons.
+      totalWaves += sortedIndexList[marker].length;                   // The result's length will add to our total number of comparisons.
       parentIndexList[marker] = i;                                      // Record where it came from.
       marker++;                                                         // Increment the marker to put the right half into.
 
       sortedIndexList[marker] = parent.slice(midpoint, parent.length);  // Put the right half next to its left half.
-      totalBattles += sortedIndexList[marker].length;                   // The result's length will add to our total number of comparisons.
+      totalWaves += sortedIndexList[marker].length;                   // The result's length will add to our total number of comparisons.
       parentIndexList[marker] = i;                                      // Record where it came from.
       marker++;                                                         // Rinse and repeat, until we get arrays of length 1. This is initialization of merge sort.
     }
@@ -275,7 +275,7 @@ function start() {
 
 /** Displays the current state of the sorter. */
 function display() {
-  const percent         = Math.floor(sortedNo * 100 / totalBattles);
+  const percent         = Math.floor(sortedNo * 100 / totalWaves);
   const leftCharIndex   = sortedIndexList[leftIndex][leftInnerIndex];
   const rightCharIndex  = sortedIndexList[rightIndex][rightInnerIndex];
   const leftChar        = characterDataToSort[leftCharIndex];
@@ -287,7 +287,7 @@ function display() {
     return `<p title="${charTooltip}">${charName}</p>`;
   };
 
-  progressBar(`Battle No. ${battleNo}`, percent);
+  progressBar(`Wave No. ${waveNo}`, percent);
 
   document.querySelector('.left.sort.image').src = leftChar.img;
   document.querySelector('.right.sort.image').src = rightChar.img;
@@ -298,8 +298,8 @@ function display() {
   document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
 
   /** Autopick if choice has been given. */
-  if (choices.length !== battleNo - 1) {
-    switch (Number(choices[battleNo - 1])) {
+  if (choices.length !== waveNo - 1) {
+    switch (Number(choices[waveNo - 1])) {
       case 0: pick('left'); break;
       case 1: pick('right'); break;
       case 2: pick('tie'); break;
@@ -314,7 +314,7 @@ function display() {
  * @param {'left'|'right'|'tie'} sortType
  */
 function pick(sortType) {
-  if ((timeTaken && choices.length === battleNo - 1) || loading) { return; }
+  if ((timeTaken && choices.length === waveNo - 1) || loading) { return; }
   else if (!timestamp) { return start(); }
 
   sortedIndexListPrev = sortedIndexList.slice(0);
@@ -326,7 +326,7 @@ function pick(sortType) {
   leftInnerIndexPrev  = leftInnerIndex;
   rightIndexPrev      = rightIndex;
   rightInnerIndexPrev = rightInnerIndex;
-  battleNoPrev        = battleNo;
+  waveNoPrev          = waveNo;
   sortedNoPrev        = sortedNo;
   pointerPrev         = pointer;
 
@@ -339,7 +339,7 @@ function pick(sortType) {
    */
   switch (sortType) {
     case 'left': {
-      if (choices.length === battleNo - 1) { choices += '0'; }
+      if (choices.length === waveNo - 1) { choices += '0'; }
       recordData('left');
       while (tiedDataList[recordDataList[pointer - 1]] != -1) {
         recordData('left');
@@ -347,7 +347,7 @@ function pick(sortType) {
       break;
     }
     case 'right': {
-      if (choices.length === battleNo - 1) { choices += '1'; }
+      if (choices.length === waveNo - 1) { choices += '1'; }
       recordData('right');
       while (tiedDataList[recordDataList [pointer - 1]] != -1) {
         recordData('right');
@@ -363,7 +363,7 @@ function pick(sortType) {
    * as if we picked the 'right' character.
    */
     case 'tie': {
-      if (choices.length === battleNo - 1) { choices += '2'; }
+      if (choices.length === waveNo - 1) { choices += '2'; }
       recordData('left');
       while (tiedDataList[recordDataList[pointer - 1]] != -1) {
         recordData('left');
@@ -424,11 +424,11 @@ function pick(sortType) {
   if (leftIndex < 0) {
     timeTaken = timeTaken || new Date().getTime() - timestamp;
 
-    progressBar(`Battle No. ${battleNo} - Completed!`, 100);
+    progressBar(`Wave No. ${waveNo} - Completed!`, 100);
 
     result();
   } else {
-    battleNo++;
+    waveNo++;
     display();
   }
 }
@@ -458,9 +458,9 @@ function recordData(sortType) {
  * @param {number} percentage
  */
 function progressBar(indicator, percentage) {
-  document.querySelector('.progressbattle').innerHTML = indicator;
+  document.querySelector('.progresswave').innerHTML = indicator;
   document.querySelector('.progressfill').style.width = `${percentage}%`;
-  document.querySelector('.progresstext').innerHTML = `${percentage}% Orange Juice!`;
+  document.querySelector('.progresstext').innerHTML = `${percentage}%`;
 }
 
 /**
@@ -527,7 +527,7 @@ function result(imageNum = 3) {
 function undo() {
   if (timeTaken) { return; }
 
-  choices = battleNo === battleNoPrev ? choices : choices.slice(0, -1);
+  choices = waveNo === waveNoPrev ? choices : choices.slice(0, -1);
 
   sortedIndexList = sortedIndexListPrev.slice(0);
   recordDataList  = recordDataListPrev.slice(0);
@@ -538,7 +538,7 @@ function undo() {
   leftInnerIndex  = leftInnerIndexPrev;
   rightIndex      = rightIndexPrev;
   rightInnerIndex = rightInnerIndexPrev;
-  battleNo        = battleNoPrev;
+  waveNo          = waveNoPrev;
   sortedNo        = sortedNoPrev;
   pointer         = pointerPrev;
 
