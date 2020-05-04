@@ -218,7 +218,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "钟函谷 / 종한구",
-    img: "",
+    img: "aM1ki3j.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "male", "ranks", "kronly"]
     }
@@ -667,7 +667,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "重渊 / 중연",
-    img: "",
+    img: "T4BIgix.png",
     opts: {
       attributes: ["tough", "warrior", "magic", "awaken", "male", "ranks"]
     }
@@ -723,7 +723,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "十玖 / 쥬쿠",
-    img: "",
+    img: "Qq14z0d.png",
     opts: {
       attributes: ["spirit", "assassin", "physical", "female", "ranks"]
     }
@@ -794,7 +794,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "钟遥 / 종야오",
-    img: "",
+    img: "nKxsbj7.png",
     opts: {
       attributes: ["tough", "assassin", "magic", "male", "ranka", "cnonly"]
     }
