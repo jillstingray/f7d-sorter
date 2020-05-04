@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "罗纳克 / 로나크",
-    img: "",
+    img: "jSrDFiM.png",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "male", "ranka"]
     }
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "达尔维拉 / 달비라",
-    img: "",
+    img: "Ra1GdKn.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "male", "ranka"]
     }
@@ -232,7 +232,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "伽梨耶 / 가리에",
-    img: "",
+    img: "jqFkZoJ.png",
     opts: {
       attributes: ["spirit", "support", "magic", "awaken", "female", "rankc"]
     }
@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "妮维 / 니유",
-    img: "",
+    img: "Gh9hPgC.png",
     opts: {
       attributes: ["spirit", "shooter", "physical", "awaken", "female", "rankc"]
     }
@@ -309,28 +309,28 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "达格 / 더그",
-    img: "",
+    img: "WIfVDOQ.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "rankb"]
     }
   },
 	{
     name: "璐璐 / 룰루",
-    img: "",
+    img: "ra3jiZT.png",
     opts: {
       attributes: ["tough", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "丽 / 레이",
-    img: "",
+    img: "e8qrh36.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "莱奥斯 / 레오스",
-    img: "",
+    img: "NTvUDXR.png",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "male", "rankb"]
     }
@@ -372,7 +372,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "李若胤 / 리로이",
-    img: "",
+    img: "8kySSTB.png",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "male", "rankb"]
     }
@@ -407,14 +407,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "零 / 누르",
-    img: "",
+    img: "1QY6hgi.png",
     opts: {
       attributes: ["deft", "support", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "拉比 / 라비",
-    img: "",
+    img: "AKHleCk.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "male", "ranka"]
     }
@@ -450,7 +450,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
      name: "璃璃子 / 리리코",
-     img: "",
+     img: "jryS1n8.png",
      opts: {
        attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
      }
@@ -471,14 +471,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "雷克特 / 렉터",
-    img: "",
+    img: "5pOShMv.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
     name: "夜 / 나이트",
-    img: "",
+    img: "3vzIvHC.png",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "male", "ranka"]
     }
@@ -527,7 +527,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "莉米亚 / 리미아",
-    img: "",
+    img: "4BkvxAN.png",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "ranks"]
     }
@@ -576,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "格蕾莎 / 그레이사",
-    img: "",
+    img: "gaPm0yB.png",
     opts: {
       attributes: ["deft", "shooter", "magic", "awaken", "female", "ranka"]
     }
@@ -597,35 +597,35 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "阮颜 / 루안 옌",
-    img: "",
+    img: "S1zuzlp.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "阮羽 / 루안 유",
-    img: "",
+    img: "Y0jJaOQ.png",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "凛雾 / 린무",
-    img: "",
+    img: "eOtxIGb.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
     name: "朵朵 / 도도",
-    img: "",
+    img: "TJCKISG.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "ranka"]
     }
   },
 	{
     name: "格雷穆 / 그레이무",
-    img: "",
+    img: "UsyYdKn.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "male", "ranks"]
     }
@@ -674,14 +674,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "萝月 / 라게츠",
-    img: "",
+    img: "VvLIRp5.png",
     opts: {
       attributes: ["spirit", "mage", "magic" ,"awaken", "female", "ranka"]
     }
   },
 	{
     name: "蕾娜 / 레나",
-    img: "",
+    img: "jd2B7hA.png",
     opts: {
       attributes: ["deft", "tank", "physical", "female", "ranks"]
     }
@@ -772,7 +772,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "雷音 / 라이온",
-    img: "",
+    img: "2XLAse1.png",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks"]
     }
@@ -823,14 +823,14 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "罗修 / 라슈",
-    img: "",
+    img: "PthrLC1.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "ranka", "cnonly"]
     }
   },
 	{
     name: "杰诺尔 / 괴아노르",
-    img: "",
+    img: "0W1qEWS.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
@@ -866,7 +866,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "莉娅 / 리아",
-    img: "",
+    img: "sIyjWYb.png",
     opts: {
       attributes: ["tough", "support", "physical", "female", "ranks", "cnonly"]
     }
@@ -880,7 +880,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "纳华特 / 나와틀",
-    img: "",
+    img: "7F8h92c.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
     }
