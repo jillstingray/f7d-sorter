@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "西比尔 / 시비르",
-    img: "",
+    img: "aTYfVxm.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "rankb"]
     }
@@ -239,7 +239,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "赛斯 / 세츠",
-    img: "",
+    img: "rBW3SQz.png",
     opts: {
       attributes: ["tough", "support", "magic", "awaken", "male", "rankc"]
     }
@@ -288,7 +288,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "濑由衣 / 세이유이",
-    img: "",
+    img: "3diZ7QX.png",
     opts: {
       attributes: ["spirit", "shooter", "magic", "awaken", "female", "ranks"]
     }
@@ -344,7 +344,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "瞬 / 슌",
-    img: "",
+    img: "QbjodCo.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "awaken", "female", "rankb"]
     }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "夏狩 / 샤슈",
-    img: "",
+    img: "S0ZcMCN.png",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "male", "rankc"]
     }
@@ -400,7 +400,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "白 / 시로",
-    img: "",
+    img: "31Dqm2t.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "awaken", "female", "ranks"]
     }
@@ -499,7 +499,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "椎名真由理 / 시이나 마유리",
-    img: "",
+    img: "MoVOTct.png",
     opts: {
       attributes: ["spirit", "mage", "physical", "collab", "female", "ranka"]
     }
@@ -632,7 +632,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "瑟雷斯 / 세레스",
-    img: "",
+    img: "zIRnLh6.png",
     opts: {
       attributes: ["spirit", "tank", "magic", "awaken", "female", "ranka"]
     }
@@ -709,7 +709,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "李小狼 / 샤오랑",
-    img: "",
+    img: "PigMx90.png",
     opts: {
       attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
     }
@@ -737,7 +737,7 @@ dataSet[dataSetVersion].characterData = [
   },
 		{
     name: "苍澜 / 소우란",
-    img: "",
+    img: "BPlRIpN.png",
     opts: {
       attributes: ["deft", "support", "magic", "male", "ranks"]
     }
@@ -780,14 +780,14 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "西莉 / 시리",
-    img: "",
+    img: "dAIfN3i.png",
     opts: {
       attributes: ["spirit", "shooter", "physical", "female", "ranka"]
     }
   },
 	{
     name: "司篁 / 사황",
-    img: "",
+    img: "Fe5RbzL.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "female", "ranks", "cnonly"]
     }
@@ -837,7 +837,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "四枫院凛 / 시호인 린",
-    img: "",
+    img: "4K3CBOb.png",
     opts: {
       attributes: ["spirit", "shooter", "magic", "male", "ranks", "cnonly"]
     }
@@ -852,14 +852,14 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "星灼 / 세이샤쿠",
-    img: "",
+    img: "68oJmH2.png",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks", "cnonly"]
     }
   },
 	{
     name: "邵言 / 소언",
-    img: "",
+    img: "D3FAa0c.png",
     opts: {
       attributes: ["spirit", "tank", "physical", "male", "ranka", "cnonly"]
     }
@@ -888,7 +888,7 @@ dataSet[dataSetVersion].characterData = [
 
 	{
     name: "希格莉法 / 시글리파",
-    img: "",
+    img: "ItxT5AG.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka", "cnonly"]
     }
