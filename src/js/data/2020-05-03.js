@@ -879,7 +879,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "纳华特 / 나월트",
+    name: "纳华特 / 나와틀",
     img: "",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks", "cnonly"]
