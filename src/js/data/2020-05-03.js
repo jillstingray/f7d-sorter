@@ -133,6 +133,104 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "阿尔法 / 알파",
+    img: "ep8nhHA.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "贝塔 / 베타",
+    img: "06DAqho.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
+    name: "伽马 / 감마",
+    img: "qyxkhow.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "德尔塔 / 델타",
+    img: "IyshP1M.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "伽拉泰亚 / 갈라테아",
+    img: "w13Kp27.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "阿撒兹勒 / 아자젤",
+    img: "KY9MSgY.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
+    name: "利维丽坦 / 레비아탄",
+    img: "Nm4N6T5.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "贝斯帝 / 베스디",
+    img: "uaDVPUs.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
+    name: "莉莉丝 / 릴리스",
+    img: "EplYVO9.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "伊斯特 / 이스터",
+    img: "VgYOJw3.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
+    name: "珈儿妈妈 / 카지 어머니",
+    img: "YmJHA2Z.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "莲花 / 연화",
+    img: "oM9ktol.png",
+    opts: { 
+      attribute: ["female", "npc"]
+    }
+  },
+  {
+    name: "让・塔克 / 존 타크",
+    img: "DM5OHCq.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
+    name: "巴洛尼德 / 바루오니드",
+    img: "qBajwOS.png",
+    opts: { 
+      attribute: ["male", "npc"]
+    }
+  },
+  {
     name: "拉奥拉 / 라오라",
     img: "g0mEl9E.png",
     opts: { 
