@@ -274,7 +274,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "薇拉 / 베라",
-    img: "",
+    img: "EKl5mxc.png",
     opts: {
       attributes: ["tough", "tank", "physical", "awaken", "female", "rankb"]
     }
@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
      name: "巴裘拉 / 바쿠라",
-     img: "",
+     img: "iccQBAU.png",
      opts: {
 	attributes: ["deft", "assassin", "physical", "awaken", "male", "rankc"]
      }
@@ -520,7 +520,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "维恩 / 비엔",
-    img: "",
+    img: "qi4kxeN.png",
     opts: {
       attributes: ["deft", "mage", "magic", "awaken", "male", "ranka"]
     }
@@ -744,7 +744,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "宝妮 / 보니",
-    img: "",
+    img: "DcXsp5S.png",
     opts: {
       attributes: ["deft", "tank", "magic", "female", "ranka"]
     }
@@ -765,7 +765,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "维尔特 / 빌트",
-    img: "",
+    img: "Ds1nxES.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranka"]
     }
