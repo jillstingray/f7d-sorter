@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica, serif;
   font-size: 16px;
-	background-color: white;
+	background-color: #EBEBEB;
 }
 
 .container {
@@ -135,13 +135,13 @@ body {
 .sorter > .left {
   grid-column: 1 / 2;
   border: 1px solid #000000;
-  background-color: #444444;
+  background-color: #D0D0D0;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
   border: 1px solid #000000;
-  background-color: #444444;
+  background-color: #D0D0D0;
 }
 
 .options {
