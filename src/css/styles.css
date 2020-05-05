@@ -161,7 +161,7 @@ label:hover {
 }
 
 .options > .large.option, .options > hr {
-  grid-column: span 3;
+  grid-column: span 1;
   text-align: center;
   width: 100%;
 }
