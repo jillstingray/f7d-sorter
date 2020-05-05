@@ -19,7 +19,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "辅助(보조)", key: "support", checked: false },
 			{ name: "物理(물리)", key: "physical", checked: false },
 			{ name: "法术(마법)", key: "magic", checked: false },
-			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: false },
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "觉醒(각성) 버전이 있는 신기사들의 그룹입니다.", checked: false },
 			{ name: "Female", key: "female", checked: false },
 			{ name: "Male", key: "male", checked: false },
 			{ name: "Initial rank S", key: "ranks", checked: false },
@@ -565,14 +565,16 @@ dataSet[dataSetVersion].characterData = [
     name: "初音未来 / MIKU",
     img: "hcHsCrX.png",
     opts: {
-      attributes: ["tough", "shooter", "physical", "collab", "female", "ranks"]
+      attributes: ["tough", "shooter", "physical", "female", "ranks"],
+	    collab: true
     }
   },
 	{
     name: "巡音流歌 / LUKA",
     img: "FIgpuC7.png",
     opts: {
-      attributes: ["deft", "support", "magic", "collab", "female", "ranka"]
+      attributes: ["deft", "support", "magic", "female", "ranka"],
+	    collab: true
     }
   },
 
@@ -580,7 +582,8 @@ dataSet[dataSetVersion].characterData = [
     name: "镜音铃・连 / RIN·LEN",
     img: "UPRb5Fc.png",
     opts: {
-      attributes: ["deft", "mage", "magic", "collab", "female", "male", "ranka"]
+      attributes: ["deft", "mage", "magic", "female", "male", "ranka"],
+	    collab: true
     }
   },
 	{
@@ -636,21 +639,24 @@ dataSet[dataSetVersion].characterData = [
     name: "牧濑红莉栖 / 마키세 크리스",
     img: "ZuCR03F.png",
     opts: {
-      attributes: ["deft", "shooter", "physical", "collab", "female", "ranks"]
+      attributes: ["deft", "shooter", "physical", "female", "ranks"],
+	    collab: true
     }
   },
 	{
     name: "椎名真由理 / 시이나 마유리",
     img: "MoVOTct.png",
     opts: {
-      attributes: ["spirit", "mage", "physical", "collab", "female", "ranka"]
+      attributes: ["spirit", "mage", "physical", "female", "ranka"],
+	    collab: true
     }
   },
 	{
     name: "冈部伦太郎 / 오카베 린타로",
     img: "MZUsKbZ.png",
     opts: {
-      attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
+      attributes: ["tough", "mage", "magic", "male", "ranka"],
+	    collab: true
     }
   },
 	{
@@ -678,28 +684,32 @@ dataSet[dataSetVersion].characterData = [
     name: "初音未来・黑羊之歌 / MIKU·검은 양",
     img: "OSSxnd9.png",
     opts: {
-      attributes: ["deft", "mage", "magic", "collab", "female", "ranks"]
+      attributes: ["deft", "mage", "magic", "female", "ranks"],
+	    collab: true
     }
   },
 	{
     name: "KAITO",
     img: "5gR7Lop.png",
     opts: {
-      attributes: ["spirit", "tank", "magic", "collab", "male", "ranka"]
+      attributes: ["spirit", "tank", "magic", "male", "ranka"],
+	    collab: true
     }
   },
 	{
     name: "初音未来・纯白福音 / MIKU·순백의 복음",
     img: "9lICZ7q.png",
     opts: {
-      attributes: ["spirit", "support", "magic", "collab", "female", "ranks"]
+      attributes: ["spirit", "support", "magic", "female", "ranks"],
+	    collab: true
     }
   },
 	{
     name: "MEIKO",
     img: "fS8PbYq.png",
     opts: {
-      attributes: ["tough", "shooter", "physical", "collab", "female", "ranka"]
+      attributes: ["tough", "shooter", "physical", "female", "ranka"],
+	    collab: true
     }
   },
 	{
@@ -839,28 +849,32 @@ dataSet[dataSetVersion].characterData = [
     name: "木之本樱・透明牌魔法使 / 체리·클리어 카드캡터",
     img: "9NIewDQ.png",
     opts: {
-      attributes: ["spirit", "mage", "magic", "collab", "female", "ranks"]
+      attributes: ["spirit", "mage", "magic", "female", "ranks"],
+	    collab: true
     }
   },
 	{
      name: "月 / 유에",
      img: "S51lRDX.png",
      opts: {
-       attributes: ["deft", "shooter", "physical", "collab", "male", "ranks"]
+       attributes: ["deft", "shooter", "physical", "male", "ranks"],
+	    collab: true
      }
   },
 	{
     name: "李小狼 / 샤오랑",
     img: "PigMx90.png",
     opts: {
-      attributes: ["tough", "mage", "magic", "collab", "male", "ranka"]
+      attributes: ["tough", "mage", "magic", "male", "ranka"],
+	    collab: true
     }
   },
 	{
     name: "木之本樱・库洛牌魔法使 / 체리·크로우 카드캡터",
     img: "QnlHEuK.png",
     opts: {
-      attributes: ["spirit", "support", "magic", "collab", "female", "ranka"]
+      attributes: ["spirit", "support", "magic", "female", "ranka"],
+	    collab: true
     }
   },
 	{
