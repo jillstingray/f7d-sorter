@@ -965,7 +965,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "月 / 유에",
+    name: "月",
     name2: "유에",
     img: "S51lRDX.png",
     opts: {
@@ -974,7 +974,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "李小狼 / 샤오랑",
+    name: "李小狼",
     name2: "샤오랑",
     img: "PigMx90.png",
     opts: {
