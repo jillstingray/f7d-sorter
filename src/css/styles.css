@@ -51,6 +51,7 @@ body {
 .button {
   background-color: #D0D0D0;
   border: 1px solid #EBEBEB;
+  vertical-align: center;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -121,13 +122,14 @@ body {
 
 .sorter > .text {
   width: 256px;
-  height: 4.8em;
+  height: 4.0em;
   display: none;
 }
 
 .sorter > .text > p {
   margin: 0.5em 0.5em 0.5em;
   width: calc(100%-10em	);
+  vertical-align: center;
   text-align: center;
   font-size: 1.1em;
   line-height: 1.5em;
