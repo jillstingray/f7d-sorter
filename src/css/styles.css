@@ -122,6 +122,7 @@ body {
   width: 256px;
   height: 2.4em;
   display: none;
+  background-color: #D0D0D0;
 }
 
 .sorter > .text > p {
@@ -130,6 +131,7 @@ body {
   text-align: center;
   font-size: 1.1em;
   line-height: 1.5em;
+  background-color: #D0D0D0;
 }
 
 .sorter > .left {
