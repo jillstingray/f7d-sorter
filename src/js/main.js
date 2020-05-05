@@ -460,7 +460,7 @@ function recordData(sortType) {
 function progressBar(indicator, percentage) {
   document.querySelector('.progressbattle').innerHTML = indicator;
   document.querySelector('.progressfill').style.width = `${percentage}%`;
-  document.querySelector('.progresstext').innerHTML = `${percentage}% Orange Juice!`;
+  document.querySelector('.progresstext').innerHTML = `${percentage}%`;
 }
 
 /**
