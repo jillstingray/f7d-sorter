@@ -900,56 +900,64 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "朝奈 / 아사나",
+    name: "朝奈",
+    name2: "아사나",
     img: "1hbrOL6.png",
     opts: {
       attributes: ["deft", "mage", "magic", "female", "ranks"]
     }
   },
 	{
-    name: "韦迪 / 웨이디",
+    name: "韦迪",
+    name2: "웨이디",
     img: "nhpDSlC.png",
     opts: {
       attributes: ["spirit", "assassin", "physical", "male", "ranka"]
     }
   },
 	{
-    name: "阿希莉亚 / 아실리아",
+    name: "阿希莉亚",
+    name2: "아실리아",
     img: "E4Zmqja.png",
     opts: {
       attributes: ["deft", "assassin", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
-    name: "重渊 / 중연",
+    name: "重渊",
+    name2: "중연",
     img: "T4BIgix.png",
     opts: {
       attributes: ["tough", "warrior", "magic", "awaken", "male", "ranks"]
     }
   },
 	{
-    name: "萝月 / 라게츠",
+    name: "萝月",
+    name2: "라게츠",
     img: "VvLIRp5.png",
     opts: {
       attributes: ["spirit", "mage", "magic" ,"awaken", "female", "ranka"]
     }
   },
 	{
-    name: "蕾娜 / 레나",
+    name: "蕾娜",
+    name2: "레나",
     img: "jd2B7hA.png",
     opts: {
       attributes: ["deft", "tank", "physical", "awaken", "female", "ranks"]
     }
   },
 	{
-    name: "白歌 / 핫카",
+    name: "白歌",
+    name2: "핫카",
     img: "ZfkQsXE.png",
     opts: {
       attributes: ["tough", "assassin", "physical", "awaken", "female", "ranka"]
     }
   },
 	{
-    name: "木之本樱・透明牌魔法使 / 체리·클리어 카드캡터",
+    name: "木之本樱・透明牌魔法使",
+    name2: "체리·클리어 카드캡터",
     img: "9NIewDQ.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "female", "ranks"],
@@ -957,15 +965,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-     name: "月 / 유에",
-     img: "S51lRDX.png",
-     opts: {
-       attributes: ["deft", "shooter", "physical", "male", "ranks"],
+    name: "月 / 유에",
+    name2: "유에",
+    img: "S51lRDX.png",
+    opts: {
+      attributes: ["deft", "shooter", "physical", "male", "ranks"],
 	    collab: true
-     }
+    }
   },
 	{
     name: "李小狼 / 샤오랑",
+    name2: "샤오랑",
     img: "PigMx90.png",
     opts: {
       attributes: ["tough", "mage", "magic", "male", "ranka"],
@@ -973,7 +983,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "木之本樱・库洛牌魔法使 / 체리·크로우 카드캡터",
+    name: "木之本樱・库洛牌魔法使",
+    name2: "체리·크로우 카드캡터",
     img: "QnlHEuK.png",
     opts: {
       attributes: ["spirit", "support", "magic", "female", "ranka"],
@@ -981,56 +992,64 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "十玖 / 쥬쿠",
+    name: "十玖",
+    name2: "쥬쿠",
     img: "Qq14z0d.png",
     opts: {
       attributes: ["spirit", "assassin", "physical", "female", "ranks"]
     }
   },
 	{
-    name: "奥德里奇 / 알드리치",
+    name: "奥德里奇",
+    name2: "알드리치",
     img: "XCRKyer.png",
     opts: {
       attributes: ["tough", "shooter", "magic", "male", "ranka"]
     }
   },
 		{
-    name: "苍澜 / 소우란",
+    name: "苍澜",
+    name2: "소우란",
     img: "BPlRIpN.png",
     opts: {
       attributes: ["deft", "support", "magic", "male", "ranks"]
     }
   },
 	{
-    name: "宝妮 / 보니",
+    name: "宝妮",
+    name2: "보니",
     img: "DcXsp5S.png",
     opts: {
       attributes: ["deft", "tank", "magic", "female", "ranka"]
     }
   },
 	{
-    name: "源千雪 / 치유키",
+    name: "源千雪",
+    name2: "치유키",
     img: "4qIJpGo.png",
     opts: {
       attributes: ["spirit", "support", "physical", "female", "ranks"]
     }
   },
 	{
-    name: "美咲 / 미사키",
+    name: "美咲",
+    name2: "미사키",
     img: "t072c8P.png",
     opts: {
       attributes: ["tough", "support", "magic", "female", "ranka"]
     }
   },
 	{
-    name: "维尔特 / 빌트",
+    name: "维尔特",
+    name2: "빌트",
     img: "Ds1nxES.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranka"]
     }
   },
 	{
-    name: "雷音 / 라이온",
+    name: "雷音",
+    name2: "라이온",
     img: "2XLAse1.png",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks"]
@@ -1038,14 +1057,16 @@ dataSet[dataSetVersion].characterData = [
   },
 
 	{
-    name: "西莉 / 시리",
+    name: "西莉",
+    name2: "시리",
     img: "dAIfN3i.png",
     opts: {
       attributes: ["spirit", "shooter", "physical", "female", "ranka"]
     }
   },
 	{
-    name: "司篁 / 사황",
+    name: "司篁",
+    name2: "사황",
     img: "Fe5RbzL.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "female", "ranks"],
@@ -1053,7 +1074,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "钟遥 / 종야오",
+    name: "钟遥",
+    name2: "종야오",
     img: "nKxsbj7.png",
     opts: {
       attributes: ["tough", "assassin", "magic", "male", "ranka"],
@@ -1061,7 +1083,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "黑死 / 페스트",
+    name: "黑死",
+    name2: "페스트",
     img: "XgOkf0x.png",
     opts: {
       attributes: ["deft", "mage", "magic", "male", "ranks"],
@@ -1069,7 +1092,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "雏雨 / 히나사메",
+    name: "雏雨",
+    name2: "히나사메",
     img: "5lTsP8h.png",
     opts: {
       attributes: ["deft", "warrior", "magic", "female", "ranka"],
@@ -1078,7 +1102,8 @@ dataSet[dataSetVersion].characterData = [
   },
 
 	{
-    name: "千式 / 천식",
+    name: "千式",
+    name2: "천식",
     img: "Niph4pK.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "female", "ranks"],
@@ -1086,7 +1111,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "罗修 / 라슈",
+    name: "罗修",
+    name2: "라슈",
     img: "PthrLC1.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "ranka"],
@@ -1094,7 +1120,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "杰诺尔 / 괴아노르",
+    name: "杰诺尔",
+    name2: "괴아노르",
     img: "0W1qEWS.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks"],
@@ -1102,7 +1129,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "四枫院凛 / 시호인 린",
+    name: "四枫院凛",
+    name2: "시호인 린",
     img: "4K3CBOb.png",
     opts: {
       attributes: ["spirit", "shooter", "magic", "male", "ranks"],
@@ -1110,7 +1138,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "片瑚 / 헨코",
+    name: "片瑚",
+    name2: "헨코",
     img: "HlQGg58.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka"],
@@ -1119,7 +1148,8 @@ dataSet[dataSetVersion].characterData = [
   },
 
 	{
-    name: "星灼 / 세이샤쿠",
+    name: "星灼",
+    name2: "세이샤쿠",
     img: "68oJmH2.png",
     opts: {
       attributes: ["tough", "mage", "magic", "female", "ranks"],
@@ -1127,7 +1157,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "邵言 / 소언",
+    name: "邵言",
+    name2: "소언",
     img: "D3FAa0c.png",
     opts: {
       attributes: ["spirit", "tank", "physical", "male", "ranka"],
@@ -1135,7 +1166,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "莉娅 / 리아",
+    name: "莉娅",
+    name2: "리아",
     img: "sIyjWYb.png",
     opts: {
       attributes: ["tough", "support", "physical", "female", "ranks"],
@@ -1143,7 +1175,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "天海奏 / 아마미 카나데",
+    name: "天海奏",
+    name2: "아마미 카나데",
     img: "GE3QQi9.png",
     opts: {
       attributes: ["spirit", "warrior", "magic", "male", "ranka"],
@@ -1151,7 +1184,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "纳华特 / 나와틀",
+    name: "纳华特",
+    name2: "나와틀",
     img: "7F8h92c.png",
     opts: {
       attributes: ["deft", "warrior", "physical", "male", "ranks"],
@@ -1160,7 +1194,8 @@ dataSet[dataSetVersion].characterData = [
   },
 
 	{
-    name: "希格莉法 / 시글리파",
+    name: "希格莉法",
+    name2: "시글리파",
     img: "ItxT5AG.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "female", "ranka"],
@@ -1168,7 +1203,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "早川百咏 / 하야카와 모에",
+    name: "早川百咏",
+    name2: "하야카와 모에",
     img: "SFi73hp.png",
     opts: {
       attributes: ["spirit", "warrior", "physical", "female", "ranks"],
@@ -1176,7 +1212,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "摩卡 / 모카",
+    name: "摩卡",
+    name2: "모카",
     img: "W59xVrC.png",
     opts: {
       attributes: ["spirit", "support", "magic", "female", "ranka"],
