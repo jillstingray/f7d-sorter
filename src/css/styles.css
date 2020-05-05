@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica, serif;
   font-size: 16px;
-	background-color: #EBEBEB;
+  background-color: #EBEBEB;
 }
 
 .container {
@@ -49,6 +49,7 @@ body {
 }
 
 .button {
+  background-color: #D0D0D0;
   border: 1px solid #EBEBEB;
   text-align: center;
   padding: 10%;
