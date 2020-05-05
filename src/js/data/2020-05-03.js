@@ -19,7 +19,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "辅助(보조)", key: "support", checked: false },
 			{ name: "物理(물리)", key: "physical", checked: false },
 			{ name: "法术(마법)", key: "magic", checked: false },
-			{ name: "觉醒(각성)", key: "awaken", tooltip: "觉醒(각성) 버전이 있는 신기사들의 그룹입니다.", checked: false },
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "각성 버전이 있는 신기사들의 그룹입니다.", checked: false },
 			{ name: "Female", key: "female", checked: false },
 			{ name: "Male", key: "male", checked: false },
 			{ name: "Initial rank S", key: "ranks", checked: false },
