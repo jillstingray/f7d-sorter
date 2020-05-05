@@ -53,203 +53,232 @@ dataSet[dataSetVersion].characterData = [
     name: "指挥使(女) / 지휘사(여)",
     img: "EVg40Gw.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "指挥使(男) / 지휘사(남)",
     img: "oz2D72K.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "希罗 / 히로",
     img: "5zCGRko.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "雷切尔 / 레이첼",
     img: "nR2Gp8v.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "弗兰克丽丝 / 프랑크리스",
     img: "oElBIje.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "霞 / 카스미",
     img: "prHRCzz.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "赛拉菲姆 / 세라핌",
     img: "OVpsWqB.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "埃索林 / 아이솔린",
     img: "nW565EM.png",
     opts: { 
-      attribute: ["female", "npc", "cnonly"]
+      attribute: ["female", "cnonly"],
+	    npc: true
     }
   },
   {
     name: "艾芙·奈奈 / 나나코",
     img: "wGfBWbn.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "莉莉娜 / 리리나",
     img: "D9uLiqT.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "活骸零 / 유해 누르",
     img: "uesab6F.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "克洛斯 / 클로스",
     img: "BmvAd0o.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "安杰丽卡 / 안젤리카",
     img: "LJFMUcg.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "史龙 / 사룡",
     img: "N0BwYdo.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "阿尔法 / 알파",
     img: "ep8nhHA.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "贝塔 / 베타",
     img: "06DAqho.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "伽马 / 감마",
     img: "qyxkhow.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "德尔塔 / 델타",
     img: "IyshP1M.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "伽拉泰亚 / 갈라테아",
     img: "w13Kp27.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "阿撒兹勒 / 아자젤",
     img: "KY9MSgY.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "利维丽坦 / 레비아탄",
     img: "Nm4N6T5.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "贝斯帝 / 베스디",
     img: "uaDVPUs.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "莉莉丝 / 릴리스",
     img: "EplYVO9.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "伊斯特 / 이스터",
     img: "VgYOJw3.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "珈儿妈妈 / 카지 어머니",
     img: "YmJHA2Z.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "莲花 / 연화",
     img: "oM9ktol.png",
     opts: { 
-      attribute: ["female", "npc"]
+      attribute: ["female"],
+	    npc: true
     }
   },
   {
     name: "让・塔克 / 존 타크",
     img: "DM5OHCq.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "巴洛尼德 / 바루오니드",
     img: "qBajwOS.png",
     opts: { 
-      attribute: ["male", "npc"]
+      attribute: ["male"],
+	    npc: true
     }
   },
   {
     name: "拉奥拉 / 라오라",
     img: "g0mEl9E.png",
     opts: { 
-      attribute: ["male", "npc", "cnonly"]
+      attribute: ["male", "cnonly"],
+	    npc: true
     }
   },
   {
