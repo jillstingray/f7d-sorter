@@ -28,16 +28,16 @@ dataSet[dataSetVersion].options = [
 			{ name: "Initial rank C", key: "rankc", checked: false }
     ]
   },
-		{
-    name: "Remove Collaboration characters",
-    key: "collab",
-    tooltip: "콜라보 신기사들을 제외합니다.",
-		checked: false
-  },
   {
     name: "Remove NPCs",
     key: "npc",
     tooltip: "주인공 지휘사, 히로, 레이첼, 카스미, 세라핌, 아자젤, 갈라테아 등 신기사가 아닌 캐릭터들을 제외합니다.",
+		checked: false
+  },
+		{
+    name: "Remove Collaboration characters",
+    key: "collab",
+    tooltip: "콜라보 신기사들을 제외합니다.",
 		checked: false
   },
 	{
