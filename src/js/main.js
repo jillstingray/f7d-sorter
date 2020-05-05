@@ -49,7 +49,7 @@ let pointerPrev         = 0;
 /** Miscellaneous sorter data that doesn't need to be saved for undo(). */
 let finalCharacters = [];
 let loading         = false;
-let totalbattles    = 0;
+let totalBattles    = 0;
 let sorterURL       = window.location.host + window.location.pathname;
 let storedSaveType  = localStorage.getItem(`${sorterURL}_saveType`);
 
@@ -460,7 +460,7 @@ function recordData(sortType) {
 function progressBar(indicator, percentage) {
   document.querySelector('.progressbattle').innerHTML = indicator;
   document.querySelector('.progressfill').style.width = `${percentage}%`;
-  document.querySelector('.progresstext').innerHTML = `${percentage}%`;
+  document.querySelector('.progresstext').innerHTML = `${percentage}% Orange Juice!`;
 }
 
 /**
