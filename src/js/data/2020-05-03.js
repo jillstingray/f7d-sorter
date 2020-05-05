@@ -20,16 +20,31 @@ dataSet[dataSetVersion].options = [
 			{ name: "物理(물리)", key: "physical", checked: false },
 			{ name: "法术(마법)", key: "magic", checked: false },
 			{ name: "觉醒(각성)", key: "awaken", tooltip: "characters who have 觉醒(각성) version", checked: false },
-			{ name: "Collab", key: "collab", checked: false },
 			{ name: "Female", key: "female", checked: false },
 			{ name: "Male", key: "male", checked: false },
 			{ name: "Initial rank S", key: "ranks", checked: false },
 			{ name: "Initial rank A", key: "ranka", checked: false },
 			{ name: "Initial rank B", key: "rankb", checked: false },
-			{ name: "Initial rank C", key: "rankc", checked: false },
-			{ name: "NPC", key: "npc", tooltip: "ex: 指挥使(지휘사), 希罗(히로), 霞(카스미)", checked: false },
-			{ name: "CN server only", key: "cnonly", tooltip: "characters who are in only Chinese server", checked: false }
+			{ name: "Initial rank C", key: "rankc", checked: false }
     ]
+  },
+		{
+    name: "Remove Collaboration characters",
+    key: "collab",
+    tooltip: "콜라보 신기사들을 제외합니다.",
+		checked: false
+  },
+  {
+    name: "Remove NPCs",
+    key: "npc",
+    tooltip: "주인공 지휘사, 히로, 레이첼, 카스미, 세라핌, 아자젤, 갈라테아 등 신기사가 아닌 캐릭터들을 제외합니다.",
+		checked: false
+  },
+	{
+    name: "Remove CN-server-only characters",
+    key: "cnonly",
+    tooltip: "중국 서버에만 있는 캐릭터들을 제외합니다.",
+		checked: false
   }
 ];
 
