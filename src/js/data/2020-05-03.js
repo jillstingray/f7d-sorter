@@ -43,7 +43,7 @@ dataSet[dataSetVersion].options = [
 	{
     name: "KR-server-only characters",
     key: "cnonly",
-    tooltip: "不包括只在国版神器使 / 한국 서버에만 있는 캐릭터들을 소트합니다.",
+    tooltip: "只包括只在韩国版的人物 / 한국 서버에만 있는 캐릭터들을 소트합니다.",
 		checked: false
   }
 ];
