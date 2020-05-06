@@ -282,9 +282,15 @@ function display() {
   const rightChar       = characterDataToSort[rightCharIndex];
 
   const charNameDisp = name => {
-    const charName = reduceTextWidth(name, 'Helvetica 12.8px', 220);
+    const charName = reduceTextWidth(name, 'Helvetica 12.8px', 300);
     const charTooltip = name !== charName ? name : '';
     return `<p title="${charTooltip}">${charName}</p>`;
+  };
+	
+  const charNameDisp2 = name2 => {
+    const charName2 = reduceTextWidth(name2, 'Helvetica 12.8px', 300);
+    const charTooltip = name2 !== charName2 ? name2 : '';
+    return `<p title="${charTooltip}">${charName2}</p>`;
   };
 
   progressBar(`Wave No. ${battleNo}`, percent);
