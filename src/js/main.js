@@ -488,13 +488,15 @@ function result(imageNum = 3) {
   const timeStr = `This sorter was completed on ${new Date(timestamp + timeTaken).toString()}and took ${msToReadableTime(timeTaken)}. <a href="${location.protocol}//${sorterURL}">Sort again?</a>`;
   const imgRes = (char, num) => {
     const charName = reduceTextWidth(char.name, 'Helvetica 12px', 160);
+    const charName2 = reduceTextWidth(char.name2, 'Helvetica 12px', 160);
     const charTooltip = char.name !== charName ? char.name : '';
-    return `<div class="result image"><div class="left"><span>${num}</span></div><div class="right"><img src="${char.img}"><div><span title="${charTooltip}">${charName}</span></div></div></div>`;
+    return `<div class="result image"><div class="left"><span>${num}</span></div><div class="right"><img src="${char.img}"><div><span title="${charTooltip}">${charName}</span></div><div><span title="${charTooltip}">${charName2}</span></div></div></div>`;
   }
   const res = (char, num) => {
     const charName = reduceTextWidth(char.name, 'Helvetica 12px', 160);
+    const charName2 = reduceTextWidth(char.name2, 'Helvetica 12px', 160);
     const charTooltip = char.name !== charName ? char.name : '';
-    return `<div class="result"><div class="left">${num}</div><div class="right"><span title="${charTooltip}">${charName}</span></div></div>`;
+    return `<div class="result"><div class="left">${num}</div><div class="right"><span title="${charTooltip}">${charName}</span></div><div class="right"><span title="${charTooltip}">${charName2}</span></div></div>`;
   }
 
   let rankNum       = 1;
