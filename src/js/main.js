@@ -281,18 +281,15 @@ function display() {
   const leftChar        = characterDataToSort[leftCharIndex];
   const rightChar       = characterDataToSort[rightCharIndex];
 
-  const charNameDisp = name => {
+  const charNameDisp = (name, name2) => {
     const charName = reduceTextWidth(name, 'Helvetica 12.8px', 300);
+    const charName2 = reduceTextWidth(name2, 'Helvetica 12.8px', 300);
     const charTooltip = name !== charName ? name : '';
-    return `<p title="${charTooltip}">${charName}</p>`;
+    const charTooltip2 = name2 !== charName2 ? name2 : '';
+    return `<p title="${charTooltip}">${charName}</p><p title="${charTooltip2}">${charName2}</p>`;
   };
 	
-  const charNameDisp2 = name2 => {
-    const charName2 = reduceTextWidth(name2, 'Helvetica 12.8px', 300);
-    const charTooltip = name2 !== charName2 ? name2 : '';
-    return `<p title="${charTooltip}">${charName2}</p>`;
-  };
-
+	
   progressBar(`Wave No. ${battleNo}`, percent);
 
   document.querySelector('.left.sort.image').src = leftChar.img;
@@ -300,8 +297,8 @@ function display() {
 
 
 
-  document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
-  document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
+  document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name, leftChar.name2);
+  document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name, rightChar.name2);
 
   /** Autopick if choice has been given. */
   if (choices.length !== battleNo - 1) {
