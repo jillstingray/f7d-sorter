@@ -19,7 +19,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "辅助(보조)", key: "support", checked: false },
 			{ name: "物理(물리)", key: "physical", checked: false },
 			{ name: "法术(마법)", key: "magic", checked: false },
-			{ name: "觉醒(각성)", key: "awaken", tooltip: "一般有觉醒的神器使。／각성 버전이 있는 신기사들의 그룹입니다.", checked: false },
+			{ name: "觉醒(각성)", key: "awaken", tooltip: "一般有觉醒的神器使 / 각성 버전이 있는 신기사들의 그룹입니다.", checked: false },
 			{ name: "Female", key: "female", checked: false },
 			{ name: "Male", key: "male", checked: false },
 			{ name: "Initial rank S", key: "ranks", checked: false },
@@ -31,19 +31,19 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove NPCs",
     key: "npc",
-    tooltip: "不包括非神器使的人物比如指挥使、希罗、雷切尔、霞、少女神明等等。／주인공 지휘사, 히로, 레이첼, 카스미, 세라핌, 아자젤, 갈라테아 등 신기사가 아닌 캐릭터들을 제외합니다.",
+    tooltip: "不包括非神器使的人物比如指挥使、希罗、雷切尔、霞、少女神明等等 / 주인공 지휘사, 히로, 레이첼, 카스미, 세라핌, 아자젤, 갈라테아 등 신기사가 아닌 캐릭터들을 제외합니다.",
 		checked: false
   },
 		{
     name: "Remove Collaboration characters",
     key: "collab",
-    tooltip: "不包括联动神器使。／콜라보 신기사들을 제외합니다.",
+    tooltip: "不包括联动神器使 / 콜라보 신기사들을 제외합니다.",
 		checked: false
   },
 	{
     name: "Remove CN-server-only characters",
     key: "cnonly",
-    tooltip: "不包括只在国版神器使。／중국 서버에만 있는 캐릭터들을 제외합니다.",
+    tooltip: "不包括只在国版神器使 / 중국 서버에만 있는 캐릭터들을 제외합니다.",
 		checked: false
   }
 ];
