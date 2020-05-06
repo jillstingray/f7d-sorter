@@ -41,9 +41,9 @@ dataSet[dataSetVersion].options = [
 		checked: false
   },
 	{
-    name: "Remove CN-server-only characters",
+    name: "KR-server-only characters",
     key: "cnonly",
-    tooltip: "不包括只在国版神器使 / 중국 서버에만 있는 캐릭터들을 제외합니다.",
+    tooltip: "不包括只在国版神器使 / 한국 서버에만 있는 캐릭터들을 소트합니다.",
 		checked: false
   }
 ];
