@@ -1107,7 +1107,6 @@ dataSet[dataSetVersion].characterData = [
     img: "Niph4pK.png",
     opts: {
       attributes: ["deft", "shooter", "physical", "female", "ranks"],
-	    cnonly: true
     }
   },
 	{
@@ -1116,7 +1115,6 @@ dataSet[dataSetVersion].characterData = [
     img: "PthrLC1.png",
     opts: {
       attributes: ["tough", "warrior", "physical", "male", "ranka"],
-	    cnonly: true
     }
   },
 	{
