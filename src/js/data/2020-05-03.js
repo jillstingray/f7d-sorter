@@ -313,22 +313,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "安",
-    name2: "안",
-    img: "bOX2xDi.png",
-    opts: { 
-      attribute: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
-    }
-  },
-  {
-    name: "安托涅瓦",
-    name2: "앙투아네트",
-    img: "KvVbtyO.png",
-    opts: {
-      attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
-    }
-  },
-  {
     name: "珈儿",
     name2: "카지",
     img: "XgvMAAm.png",
@@ -1216,6 +1200,22 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       attributes: ["spirit", "support", "magic", "female", "ranka"],
 	    cnonly: true
+    }
+  },
+  {
+    name: "安",
+    name2: "안",
+    img: "bOX2xDi.png",
+    opts: { 
+      attribute: ["deft", "assassin", "physical", "awaken", "female", "rankb"]
+    }
+  },
+  {
+    name: "安托涅瓦",
+    name2: "앙투아네트",
+    img: "KvVbtyO.png",
+    opts: {
+      attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   }
 ]
