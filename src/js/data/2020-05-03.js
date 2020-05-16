@@ -1054,7 +1054,6 @@ dataSet[dataSetVersion].characterData = [
     img: "Fe5RbzL.png",
     opts: {
       attributes: ["spirit", "mage", "magic", "female", "ranks"],
-	    cnonly: true
     }
   },
 	{
@@ -1063,7 +1062,6 @@ dataSet[dataSetVersion].characterData = [
     img: "nKxsbj7.png",
     opts: {
       attributes: ["tough", "assassin", "magic", "male", "ranka"],
-	    cnonly: true
     }
   },
 	{
