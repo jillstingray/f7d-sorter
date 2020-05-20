@@ -1088,7 +1088,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "천식",
     img: "Niph4pK.png",
     opts: {
-      attributes: ["deft", "shooter", "physical", "female", "ranks"],
+      attributes: ["deft", "shooter", "physical", "female", "ranks"]
     }
   },
 	{
@@ -1096,7 +1096,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "라슈",
     img: "PthrLC1.png",
     opts: {
-      attributes: ["tough", "warrior", "physical", "male", "ranka"],
+      attributes: ["tough", "warrior", "physical", "male", "ranka"]
     }
   },
 	{
