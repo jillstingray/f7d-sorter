@@ -1053,7 +1053,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "사황",
     img: "Fe5RbzL.png",
     opts: {
-      attributes: ["spirit", "mage", "magic", "female", "ranks"],
+      attributes: ["spirit", "mage", "magic", "female", "ranks"]
     }
   },
 	{
@@ -1061,7 +1061,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "종야오",
     img: "nKxsbj7.png",
     opts: {
-      attributes: ["tough", "assassin", "magic", "male", "ranka"],
+      attributes: ["tough", "assassin", "magic", "male", "ranka"]
     }
   },
 	{
@@ -1214,6 +1214,15 @@ dataSet[dataSetVersion].characterData = [
     img: "KvVbtyO.png",
     opts: {
       attribute: ["deft", "mage", "magic", "awaken", "female", "ranks"]
+    }
+  },
+  {
+    name: "安托涅瓦・暗使",
+    name2: "앙투아네트·암사",
+    img: "MPCRrmW.png",
+    opts: {
+      attribute: ["deft", "mage", "magic", "female", "ranks"],
+	    cnonly: true
     }
   }
 ]
