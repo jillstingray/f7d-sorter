@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "뮤아",
     img: "V2rzc18.png",
     opts: {
-      attributes: ["tough", "support", "magic", "female", "rankb"]
+      attributes: ["tough", "support", "magic", "awaken", "female", "rankb"]
     }
   },
 	{
@@ -888,7 +888,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "아사나",
     img: "1hbrOL6.png",
     opts: {
-      attributes: ["deft", "mage", "magic", "female", "ranks"]
+      attributes: ["deft", "mage", "magic", "awaken", "female", "ranks"]
     }
   },
 	{
@@ -896,7 +896,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "웨이디",
     img: "nhpDSlC.png",
     opts: {
-      attributes: ["spirit", "assassin", "physical", "male", "ranka"]
+      attributes: ["spirit", "assassin", "physical", "awaken", "male", "ranka"]
     }
   },
 	{
