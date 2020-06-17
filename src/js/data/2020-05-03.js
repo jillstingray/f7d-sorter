@@ -1224,5 +1224,23 @@ dataSet[dataSetVersion].characterData = [
       attribute: ["deft", "mage", "magic", "female", "ranks"],
 	    cnonly: true
     }
+  },
+  {
+    name: "伊薇",
+    name2: "이비",
+    img: "mhqe5mO.png",
+    opts: {
+      attribute: ["spirit", "mage", "magic", "female", "ranks"],
+	    cnonly: true
+    }
+  },
+  {
+    name: "蓝斯",
+    name2: "란스",
+    img: "Jmp1SOO.png",
+    opts: {
+      attribute: ["tough", "mage", "magic", "male", "ranka"],
+	    cnonly: true
+    }
   }
 ]
