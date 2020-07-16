@@ -118,8 +118,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nW565EM.png",
     opts: { 
       attribute: ["female"],
-	    npc: true,
-	    cnonly: true
+	    npc: true
     }
   },
   {
@@ -304,12 +303,11 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "拉奥拉",
-    name2: "라오라",
+    name2: "라올라",
     img: "g0mEl9E.png",
     opts: { 
       attribute: ["male"],
-	    npc: true,
-	    cnonly: true
+	    npc: true
     }
   },
   {
@@ -1101,11 +1099,10 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "杰诺尔",
-    name2: "괴아노르",
+    name2: "게아노르",
     img: "0W1qEWS.png",
     opts: {
-      attributes: ["deft", "warrior", "physical", "male", "ranks"],
-	    cnonly: true
+      attributes: ["deft", "warrior", "physical", "male", "ranks"]
     }
   },
 	{
