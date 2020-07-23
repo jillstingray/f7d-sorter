@@ -1239,5 +1239,32 @@ dataSet[dataSetVersion].characterData = [
       attribute: ["tough", "mage", "magic", "male", "ranka"],
 	    cnonly: true
     }
+  },
+  {
+    name: "尤弥尔",
+    name2: "유미르",
+    img: "3YFKWje.png",
+    opts: {
+      attribute: ["tough", "shooter", "physical", "female", "ranks"],
+	    cnonly: true
+    }
+  },
+  {
+    name: "玛赫",
+    name2: "마하",
+    img: "jFdFS9L.png",
+    opts: {
+      attribute: ["tough", "warrior", "physical", "female", "ranka"],
+	    cnonly: true
+    }
+  },
+  {
+    name: "纱夜",
+    name2: "사야",
+    img: "zj8P5tU.png",
+    opts: {
+      attribute: ["tough", "tank", "physical", "female", "ranks"],
+	    cnonly: true
+    }
   }
 ]
