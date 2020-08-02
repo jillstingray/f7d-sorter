@@ -1067,8 +1067,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "페스트",
     img: "XgOkf0x.png",
     opts: {
-      attributes: ["deft", "mage", "magic", "male", "ranks"],
-	    cnonly: true
+      attributes: ["deft", "mage", "magic", "male", "ranks"]
     }
   },
 	{
@@ -1076,8 +1075,7 @@ dataSet[dataSetVersion].characterData = [
     name2: "히나사메",
     img: "5lTsP8h.png",
     opts: {
-      attributes: ["deft", "warrior", "magic", "female", "ranka"],
-	    cnonly: true
+      attributes: ["deft", "warrior", "magic", "female", "ranka"]
     }
   },
 
